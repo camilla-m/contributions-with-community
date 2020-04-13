@@ -1,8 +1,8 @@
 # Contributions with community
 
-##Talks
+## Talks
 
-###Until 2018
+### Until 2018
 
 - BrazilJs Weekly #235 with [Debora Cardu](http://twitter.com/deboracardu "Debora Cardu") - News about Javascript world **(PT-BR)** - https://www.youtube.com/watch?v=Bq0oD8r7aas
 - Why we still need to respect jQuery? **(PT-BR)** - https://en.eventials.com/Globalcode/events/javascript-tdconline-sp-2018-premium/
@@ -22,7 +22,7 @@
 - Vue.js site in 10 minutes with [Debora Cardu](http://twitter.com/deboracardu "Debora Cardu") **(PT-BR) **- https://www.youtube.com/watch?v=0ROtvpWD0Dc
 - NodeGirls, Women In Tech interview **(PT-BR)** - https://www.youtube.com/watch?v=1RBX8o4i9n8
 
-###2019
+### 2019
 
 - Monitoring Postgres RDS with Graylog **(PT-BR)** - https://www.infoq.com/br/presentations/monitoramento-postgres-RDS-graylog/?itm_source=presentations_about_PGConf-Brasil&itm_medium=link&itm_campaign=PGConf-Brasil
 - ElasticSearch + Nodejs (DevOps) **(PT-BR)** - https://en.eventials.com/Globalcode/https-www-eventials-com-globalcode-tdc-sp-2019-stadium-quinta-3/
@@ -30,7 +30,7 @@
 - Feature Toggle **(PT-BR)** - https://devopsdays.org/events/2019-aracaju/speakers/camilla-martins
 - Django to organize backups **(PT-BR)** - https://2019.pythonbrasil.org.br/grade/
 
-###2020
+### 2020
 
 - Jenkins + Ansible **(PT-BR)** - https://devopsdays.org/events/2020-vitoria/speakers/camilla-martins/
 - Automatizing rollbacks and working with blameless culture **(PT-BR)** - https://github.com/linuxtips/FiqueEmCasaConf
