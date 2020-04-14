@@ -59,6 +59,9 @@
 - DevOpsDays Rio - (soon) - 2019 until now
 - DevOpsDays Porto Alegre - https://devopsdays.org/events/2020-porto-alegre/welcome/ - 2018 until now
 - DjangoGirls Novo Hamburgo 2018
+- TDC Porto Alegre NodeJs Track 2018
+- TDC Florianópolis NodeJs Track 2018
+- TDC São Paulo NodeJs Track 2018
 
 ## Coach
 
