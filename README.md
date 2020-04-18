@@ -34,7 +34,7 @@
 
 - Jenkins + Ansible **(PT-BR)** - https://devopsdays.org/events/2020-vitoria/speakers/camilla-martins/
 - Automatizing rollbacks and working with blameless culture **(PT-BR)** - https://github.com/linuxtips/FiqueEmCasaConf
-- Jenkins + Ansible **(PT-BR)** - https://www.meetup.com/pt-BR/PyLadies-Rio-de-Janeiro/events/269970644/
+- Jenkins + Ansible **(PT-BR)** - https://www.youtube.com/watch?v=H0mnLizeQxo
 - Implementing monitoring **(PT-BR)** - https://devopsdays.org/events/2020-porto-alegre/welcome/
 
 ## Keynote
