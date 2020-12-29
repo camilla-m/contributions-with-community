@@ -36,6 +36,15 @@
 - Automatizing rollbacks and working with blameless culture **(PT-BR)** - https://github.com/linuxtips/FiqueEmCasaConf
 - Jenkins + Ansible **(PT-BR)** - https://www.youtube.com/watch?v=H0mnLizeQxo
 - Implementing monitoring **(PT-BR)** - https://devopsdays.org/events/2020-porto-alegre/welcome/
+- DevOps - mercado e processos seletivos **(PT-BR)** - https://www.youtube.com/watch?v=eV5brULwuL4
+- DevOps - mercado e processos seletivos **(PT-BR)** - https://www.youtube.com/watch?v=zNnFeNUrqmE
+- DevOps - mercado e processos seletivos **(PT-BR)** - https://devopsdays.org/events/2020-fortaleza/program
+- DevSecOps - Como Desenvolver E Deployar Com Mais Segurança? **(PT-BR)** - https://devopsdays.org/events/2020-goiania/programacao
+- Under Attack: boas práticas em reactjs recomendados para proteger seu aplicativo contra problemas de segurança com  [Rob Robert](http://twitter.com/WonderlandOuts "Rob Robert") **(PT-BR)** - https://www.youtube.com/watch?v=nsvVjIb7WDk
+- Debate sobre Software Livre para o IFSP **(PT-BR)** - https://www.ifspcaraguatatuba.edu.br/noticias/atividade-cultural-realizada-pelo-ifsp-caraguatatuba-debateu-sobre-o-linux
+- GCP, processos de TV, Serverless e Python **(PT-BR)** - https://2020.pythonbrasil.org.br/grade/
+- Live de Python: Ansible e Colorado **(PT-BR)** - https://www.youtube.com/watch?v=22OxRcRxte8
+- DevSecOps - Como Desenvolver E Deployar Com Mais Segurança? **(PT-BR)** - https://www.youtube.com/watch?v=4UdFuuJLx2E
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
@@ -56,6 +65,8 @@
 
 ## Organizer / Coordinating
 
+- Curadoria Programaria Summit 2020 - https://programariasummit.4.events
+- DevOpsDays São Paulo 2020 - https://devopsdays.org/events/2020-sao-paulo/program
 - DevOpsDays Rio - (soon) - 2019 until now
 - DevOpsDays Porto Alegre - https://devopsdays.org/events/2020-porto-alegre/welcome/ - 2018 until now
 - DjangoGirls Novo Hamburgo 2018
@@ -71,4 +82,8 @@
 
 ## Youtube channel
 
-https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA
+https://www.youtube.com/channel/punkdodevops
+
+## Twitch
+
+https://twitch.tv/punkdodevops
