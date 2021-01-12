@@ -57,6 +57,7 @@
 ## Scholarships (thx u sooo!)
 
 - **DevOpsDays Ghent 10 years** - https://devopsdays.org/events/2019-ghent/welcome/
+- **KubeCon + CloudNativeCon Europe 2020** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
 
 ## Community Leader
 
