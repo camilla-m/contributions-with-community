@@ -46,6 +46,7 @@
 - Live de Python: Ansible e Colorado **(PT-BR)** - https://www.youtube.com/watch?v=22OxRcRxte8
 - DevSecOps - Como Desenvolver E Deployar Com Mais Segurança? **(PT-BR)** - https://www.youtube.com/watch?v=4UdFuuJLx2E
 - Bad Smells em Javascript **(PT-BR)** - https://braziljs.org/eventos/otr-rio-de-janeiro/2020/
+- Trabalhando com PHP Composer, Docker e Laravel **(PT-BR)** - https://online.php.locaweb.com.br/
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
