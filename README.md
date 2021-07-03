@@ -48,6 +48,19 @@
 - Bad Smells em Javascript **(PT-BR)** - https://braziljs.org/eventos/otr-rio-de-janeiro/2020/
 - Trabalhando com PHP Composer, Docker e Laravel **(PT-BR)** - https://online.php.locaweb.com.br/
 
+### 2021
+
+- Rebobinando com o Luide **(PT-BR)** - https://www.rebobinando.com.br/programar-e-punk-punk-do-devops/
+- Kubicast com GetUp **(PT-BR)** - https://blog.getupcloud.com/kubicast-66-914451ff0994
+- DevOpsDays Rio Organizer - https://devopsdays.org/events/2021-rio-de-janeiro/welcome
+- DockerCon em: Pipelines com Docker **(PT-BR)** - https://www.youtube.com/watch?v=Kc0kKrHOJ_g&t=7s
+- Revolushow sobre Trabalhadores de TI **(PT-BR)** - https://revolushow.com/102-trabalhadores-da-tecnologia-da-informacao/
+- Papo sobre DevSecOps para Computação URI **PT-BR** - https://www.youtube.com/watch?v=j025ST2KjjQ
+- DevOpsDays Porto Alegre - Custos em Kubernetes na migração de regiões - https://devopsdays.org/events/2021-porto-alegre/program
+- Podcast gravado com Feministech em breve no ar **(PT-BR)** - https://anchor.fm/feministech
+- Maratona Live Coder Girls **(PT-BR)** - https://maratona3.live
+- 10º Girls in ICT | Dia das Meninas nas Tecnologias de Informação e Comunicaçção (TIC) 2021 **(PT-BR)** - https://www.youtube.com/watch?v=xbKeTSfFW8s
+
 ## Keynote
 - DevOps organizing events **(PT-BR)** - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
 
@@ -76,6 +89,7 @@
 - TDC Porto Alegre NodeJs Track 2018
 - TDC Florianópolis NodeJs Track 2018
 - TDC São Paulo NodeJs Track 2018
+- DevOpsDays Rio Organizer 2021
 
 ## Coach
 
