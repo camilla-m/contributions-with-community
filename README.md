@@ -60,6 +60,7 @@
 - Podcast gravado com Feministech em breve no ar **(PT-BR)** - https://anchor.fm/feministech
 - Maratona Live Coder Girls **(PT-BR)** - https://maratona3.live
 - 10º Girls in ICT | Dia das Meninas nas Tecnologias de Informação e Comunicaçção (TIC) 2021 **(PT-BR)** - https://www.youtube.com/watch?v=xbKeTSfFW8s
+- Roadsec e contribuições sobre postagens do Mês LGBTQIA+ **(PT-BR)** - https://www.instagram.com/p/CQt9i6qD1lI/
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
