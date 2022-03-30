@@ -1,5 +1,9 @@
 # Contributions with community
 
+## Course
+
+- Descomplicando o DevOps **(PT-BR)** - https://www.linuxtips.io/products/descomplicando-o-devops - 10% discount with PUNKDODEVOPS coupon
+
 ## Talks
 
 ### Until 2018
@@ -56,11 +60,20 @@
 - DockerCon em: Pipelines com Docker **(PT-BR)** - https://www.youtube.com/watch?v=Kc0kKrHOJ_g&t=7s
 - Revolushow sobre Trabalhadores de TI **(PT-BR)** - https://revolushow.com/102-trabalhadores-da-tecnologia-da-informacao/
 - Papo sobre DevSecOps para Computação URI **PT-BR** - https://www.youtube.com/watch?v=j025ST2KjjQ
-- DevOpsDays Porto Alegre - Custos em Kubernetes na migração de regiões - https://devopsdays.org/events/2021-porto-alegre/program
-- Podcast gravado com Feministech em breve no ar **(PT-BR)** - https://anchor.fm/feministech
+- DevOpsDays Porto Alegre - Custos em Kubernetes na migração de regiões  **(PT-BR)** - https://devopsdays.org/events/2021-porto-alegre/program
+- Podcast gravado com Feministech **(PT-BR)** - https://anchor.fm/feministech
 - Maratona Live Coder Girls **(PT-BR)** - https://maratona3.live
 - 10º Girls in ICT | Dia das Meninas nas Tecnologias de Informação e Comunicaçção (TIC) 2021 **(PT-BR)** - https://www.youtube.com/watch?v=xbKeTSfFW8s
 - Roadsec e contribuições sobre postagens do Mês LGBTQIA+ **(PT-BR)** - https://www.instagram.com/p/CQt9i6qD1lI/
+- Semana DevOps e lançamento do curso Descomplicando o DevOps **(PT-BR)** - https://www.youtube.com/watch?v=gCn5Pfh6MW0
+- DevOpsDays Blumenau - Custos em Kubernetes na migração de regiões **(PT-BR)** - https://devopsdays.org/events/2021-blumenau/speakers
+- Latinoware 2021 - Kubernetes: migração entre regiões, redução de custo e afinamento da infraestrutura **(PT-BR)** - https://latinoware.org/
+- Todas as Letras **(PT-BR)**
+- BrazilJS **(PT-BR)**
+
+### 2022
+- Live com o MTST **(PT-BR)** - https://www.instagram.com/p/CbLL2UHLEkl/
+- Estabilis **(PT-BR)**
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
