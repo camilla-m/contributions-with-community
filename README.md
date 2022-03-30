@@ -70,6 +70,7 @@
 - Latinoware 2021 - Kubernetes: migração entre regiões, redução de custo e afinamento da infraestrutura **(PT-BR)** - https://latinoware.org/
 - Todas as Letras **(PT-BR)**
 - BrazilJS **(PT-BR)**
+- Estabilis DevOps Bootcamp **(PT-BR)**
 
 ### 2022
 - Live com o MTST **(PT-BR)** - https://www.instagram.com/p/CbLL2UHLEkl/
