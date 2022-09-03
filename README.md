@@ -91,7 +91,8 @@
 - CloudNative 5G: o que esperar para o futuro? - **(PT-BR)** - https://aratu.boitatech.com.br
 
 ## Keynote
-- DevOps organizing events **(PT-BR)** - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
+- DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
+- Kubernetes com edge e 5G Cloud Native - DevOpsDays Fortaleza **(PT-BR)** - 2022 - https://devopsdays.org/events/2022-fortaleza/speakers/camilla-martins/
 
 ## Code contribution
 
