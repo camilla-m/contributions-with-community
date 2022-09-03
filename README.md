@@ -111,6 +111,7 @@
 ## Organizer / Coordinating
 
 - Curadoria Programaria Summit 2020 - https://programariasummit.4.events
+- Curadoria Programaia Summit 2021
 - DevOpsDays São Paulo 2020 - https://devopsdays.org/events/2020-sao-paulo/program
 - DevOpsDays Rio - https://devopsdays.org/events/2022-rio-de-janeiro/program - 2019 until now
 - DevOpsDays Porto Alegre - https://devopsdays.org/events/2020-porto-alegre/welcome/ - 2018 until 2022
