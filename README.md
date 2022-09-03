@@ -4,6 +4,11 @@
 
 - Descomplicando o DevOps **(PT-BR)** - https://www.linuxtips.io/products/descomplicando-o-devops - 10% discount with PUNKDODEVOPS coupon
 
+## Awards
+
+- Docker Community Leader Award 2020
+- Docker Community Leader Award 2022
+
 ## Talks
 
 ### Until 2018
@@ -74,7 +79,16 @@
 
 ### 2022
 - Live com o MTST **(PT-BR)** - https://www.instagram.com/p/CbLL2UHLEkl/
-- Estabilis **(PT-BR)**
+- Estabilis **(PT-BR)** - https://www.sympla.com.br/evento-online/devops-experience-edicao-31-de-marco-de-2022/1501928?lang=PT
+- Oficina com o MTST de aprendizado sobre Docker **(PT-BR)** - https://www.youtube.com/watch?v=UJfMVBeXWQc
+- Migrando bancos Postgres e MongoDB de regiões - PGConfBR 2022 - **(PT-BR)** - https://www.pgconf.com.br/2022/
+- Elasticidade de rede em Kubernetes com edge e 5G Cloud Native - **(PT-BR)** - DevOpsDays Vitória - https://devopsdays.org/events/2022-vitoria/program/camilla-martins
+- Meetup Interno C6Bank - https://twitter.com/morgannadev/status/1559907807981457408 - Service Mesh **(PT-BR)**
+- Docker Community All Hands #6 - https://tulu.la/chat/docker-000014/international-waters-0003ou
+- DockerCon 2022 - https://docker.events.cube365.net/dockercon/2022
+- Utilizando CodeBuild e CodePipelines com Terraform - HashiTalks Brazil -  **(PT-BR)** - https://events.hashicorp.com/hashitalksbrasil
+- Kubernetes com edge e 5G Cloud Native - DevOpsDays Fortaleza - **(PT-BR)** - https://devopsdays.org/events/2022-fortaleza/speakers
+- CloudNative 5G: o que esperar para o futuro? - **(PT-BR)** - https://aratu.boitatech.com.br
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
@@ -84,9 +98,9 @@
 - **Pyladies repo** - https://github.com/pyladies/pyladies/pull/332
 
 ## Scholarships (thx u sooo!)
-
 - **DevOpsDays Ghent 10 years** - https://devopsdays.org/events/2019-ghent/welcome/
 - **KubeCon + CloudNativeCon Europe 2020** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
+- **KubeCon + CloudNativeCon Europe 2021** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
 
 ## Community Leader
 
@@ -98,13 +112,13 @@
 
 - Curadoria Programaria Summit 2020 - https://programariasummit.4.events
 - DevOpsDays São Paulo 2020 - https://devopsdays.org/events/2020-sao-paulo/program
-- DevOpsDays Rio - (soon) - 2019 until now
-- DevOpsDays Porto Alegre - https://devopsdays.org/events/2020-porto-alegre/welcome/ - 2018 until now
+- DevOpsDays Rio - https://devopsdays.org/events/2022-rio-de-janeiro/program - 2019 until now
+- DevOpsDays Porto Alegre - https://devopsdays.org/events/2020-porto-alegre/welcome/ - 2018 until 2022
 - DjangoGirls Novo Hamburgo 2018
 - TDC Porto Alegre NodeJs Track 2018
 - TDC Florianópolis NodeJs Track 2018
 - TDC São Paulo NodeJs Track 2018
-- DevOpsDays Rio Organizer 2021
+- DevOpsDays Rio Organizer 2019 until now
 
 ## Coach
 
