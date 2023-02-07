@@ -9,6 +9,11 @@
 - Docker Community Leader Award 2020
 - Docker Community Leader Award 2022
 
+## Titles
+
+- Docker Community Leader
+- Hashicorp Ambassador
+
 ## Talks
 
 ### Until 2018
@@ -89,10 +94,19 @@
 - Utilizando CodeBuild e CodePipelines com Terraform - HashiTalks Brazil -  **(PT-BR)** - https://events.hashicorp.com/hashitalksbrasil
 - Kubernetes com edge e 5G Cloud Native - DevOpsDays Fortaleza - **(PT-BR)** - https://devopsdays.org/events/2022-fortaleza/speakers
 - CloudNative 5G: o que esperar para o futuro? - **(PT-BR)** - https://aratu.boitatech.com.br
+- Latinoware - Elasticidade de rede em Kubernetes com edge e 5G Cloud Native - **(PT-BR)** - https://www.youtube.com/live/1njvoi_x4CY?feature=share&t=17981
+- Workshop - Programaria - Zero to Hero: criando Kubernetes e fazendo sua manutenção  - **(PT-BR)** - https://vamosjuntes.programaria.org/summit22-agenda
+
+### 2023
+ 
+- Saindo das VMs para containers - DevOpsDays Goiânia **(PT-BR)** - https://devopsdays.org/events/2023-goiania/program
+- ULC - LinuxTips - Soon
+- Folia LinuxTips - https://www.linuxtips.io/folia-linuxtips
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
 - Kubernetes com edge e 5G Cloud Native - DevOpsDays Fortaleza **(PT-BR)** - 2022 - https://devopsdays.org/events/2022-fortaleza/speakers/camilla-martins/
+- Saindo das VMs para containers - DevOpsDays Goiânia **(PT-BR)** - 2023 - https://devopsdays.org/events/2023-goiania/program
 
 ## Code contribution
 
@@ -108,6 +122,7 @@
 - **NodeGirls** - https://github.com/NodeGirlsCode - 2017 until 2018
 - **NodePOA** - https://www.meetup.com/pt-BR/meetup-nodejs-porto-alegre/ - 2017 until 2018
 - **Docker Community Leader Rio de Janeiro** - https://events.docker.com/rio-de-janeiro/ - 2019 until now
+- **Hashicorp Ambassador**
 
 ## Organizer / Coordinating
 
@@ -121,6 +136,7 @@
 - TDC Florianópolis NodeJs Track 2018
 - TDC São Paulo NodeJs Track 2018
 - DevOpsDays Rio Organizer 2019 until now
+- DevOpsDays Vitoria Organizer 2022 until now
 
 ## Coach
 
