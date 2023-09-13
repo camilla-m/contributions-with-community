@@ -14,6 +14,7 @@
 
 - Docker Community Leader
 - Hashicorp Ambassador
+- Google Developer Expert (Google Cloud)
 
 ## Talks
 
@@ -101,8 +102,17 @@
 ### 2023
  
 - Saindo das VMs para containers - DevOpsDays Goiânia **(PT-BR)** - https://devopsdays.org/events/2023-goiania/program
-- ULC - LinuxTips - Soon
+- DevOps para o Exterior - Platform Engineer Summit - LinuxTips - **(PT-BR)**
 - Folia LinuxTips - https://www.linuxtips.io/folia-linuxtips
+- Vercel AI - GDG Salvador - Google I/O Extended 2023 - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-salvador-presents-google-io-extended-salvador-2023/
+- DevOps para o Exterior - DevOpsDays Juiz de Fora - **(PT-BR)** - https://devopsdays.org/events/2023-juiz-de-fora/program
+- DevOps para o Exterior - DevOpsDays Florianópolis - **(PT-BR)** - https://devopsdays.org/events/2023-florianopolis/welcome/
+- Programação Linear Mista para escalonamento de containers - Latinoware 2023 - **(PT-BR)** - https://latinoware.org/
+- Programação Linear Mista para escalonamento de containers - SBPO - **(PT-BR)** - https://eventos.galoa.com.br/sbpo-2023
+- Container Scheduling in Kubernetes Clusters Using a Mixed Integer Linear Programming Approach - ICUMT 2023 - https://icumt.info/2023/
+- Kubecon 2023: overview - Meetup Hashicorp Rio de Janeiro - https://www.meetup.com/pt-BR/rio-de-janeiro-hashicorp-user-group/events/293657830/
+- Prototipando Ideias - Terraform em Microsserviços - Google Brasil - **(PT-BR)** - https://rsvp.withgoogle.com/events/prototipando-ideias-16ago
+- Palestra para Portugal - DevOps - DevPT no Discord - **(PT-BR)** - https://discord.gg/zMyd4hjp 
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
@@ -117,6 +127,7 @@
 - **DevOpsDays Ghent 10 years** - https://devopsdays.org/events/2019-ghent/welcome/
 - **KubeCon + CloudNativeCon Europe 2020** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
 - **KubeCon + CloudNativeCon Europe 2021** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
+- **DevOpsDays Chicago 2023 and Organizer Summit** - https://devopsdays.org/events/2023-chicago/welcome/
 
 ## Community Leader
 
@@ -127,8 +138,9 @@
 
 ## Organizer / Coordinating
 
-- Curadoria Programaria Summit 2020 - https://programariasummit.4.events
-- Curadoria Programaia Summit 2021
+- Curadoria Programaria Summit 2020
+- Curadoria Programaria Summit 2021
+- Curadoria Programaria Summit 2023
 - DevOpsDays São Paulo 2020 - https://devopsdays.org/events/2020-sao-paulo/program
 - DevOpsDays Rio - https://devopsdays.org/events/2022-rio-de-janeiro/program - 2019 until now
 - DevOpsDays Porto Alegre - https://devopsdays.org/events/2020-porto-alegre/welcome/ - 2018 until 2022
