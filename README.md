@@ -85,6 +85,7 @@
 - Todas as Letras **(PT-BR)**
 - BrazilJS **(PT-BR)**
 - Estabilis DevOps Bootcamp **(PT-BR)**
+- Quebradev - Politize-se: posicionamento político no trabalho -  **(PT-BR)** - https://quebra.dev/posicionamento-politico-no-trabalho/
 
 ### 2022
 - Live com o MTST **(PT-BR)** - https://www.instagram.com/p/CbLL2UHLEkl/
