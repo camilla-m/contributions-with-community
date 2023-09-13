@@ -2,7 +2,7 @@
 
 ## Course
 
-- Descomplicando o DevOps **(PT-BR)** - https://www.linuxtips.io/products/descomplicando-o-devops - 10% discount with PUNKDODEVOPS coupon
+- Descomplicando o DevOps **(PT-BR)** - https://www.linuxtips.io/products/descomplicando-o-devops
 - Como é o Dia a Dia de um DevOps **(PT-BR)** - https://www.linuxtips.io/course/trabalhando-devops-engineer
 
 ## Awards
