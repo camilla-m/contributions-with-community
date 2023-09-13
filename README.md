@@ -15,6 +15,8 @@
 - Docker Community Leader
 - Hashicorp Ambassador
 - Google Developer Expert (Google Cloud)
+- Docker Captain
+- Impulso Expert
 
 ## Talks
 
