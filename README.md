@@ -110,7 +110,12 @@
 - Vercel AI - GDG Salvador - Google I/O Extended 2023 - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-salvador-presents-google-io-extended-salvador-2023/
 - DevOps para o Exterior - DevOpsDays Juiz de Fora - **(PT-BR)** - https://devopsdays.org/events/2023-juiz-de-fora/program
 - DevOps para o Exterior - DevOpsDays Florianópolis - **(PT-BR)** - https://devopsdays.org/events/2023-florianopolis/welcome/
-- Programação Linear Mista para escalonamento de containers - Latinoware 2023 - **(PT-BR)** - https://latinoware.org/
+- Programação Linear Mista para escalonamento de containers - Latinoware 2023 - **(PT-BR)** - [https://latinoware.org/](https://lapsi.latinoware.org/index.php/program/day/156)
+- Programação Linear Mista para escalonamento de containers - Semana de Tecnologia e Inovação da Universidade Federal do Norte Fluminense - **(PT-BR)**
+- Programação Linear Mista para escalonamento de containers - Aniversário LinuxTIPS - **(PT-BR)**
+- TBD - PGConf Cascavél 2023 - **(PT-BR)**
+- TBD - Google Brasil Meetup - **(PT-BR)**
+- Adicione ML aos seus aplicativos por meio de consultas simples ao banco de dados com BigQuery ML - DevOpsDays Recife - **(PT-BR)** - https://devopsdays.org/events/2023-recife/welcome
 - Programação Linear Mista para escalonamento de containers - SBPO - **(PT-BR)** - https://eventos.galoa.com.br/sbpo-2023
 - Container Scheduling in Kubernetes Clusters Using a Mixed Integer Linear Programming Approach - ICUMT 2023 - https://icumt.info/2023/
 - Kubecon 2023: overview - Meetup Hashicorp Rio de Janeiro - https://www.meetup.com/pt-BR/rio-de-janeiro-hashicorp-user-group/events/293657830/
