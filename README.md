@@ -19,7 +19,7 @@
 - Docker Captain
 - Impulso Expert
 
-## Languaes
+## Languages
 
 - Portuguese
 - English
