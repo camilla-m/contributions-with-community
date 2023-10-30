@@ -15,8 +15,16 @@
 - Docker Community Leader
 - Hashicorp Ambassador
 - Google Developer Expert (Google Cloud)
+- Google Champion Innovator
 - Docker Captain
 - Impulso Expert
+
+## Languaes
+
+- Portuguese
+- English
+- Spanish
+- German
 
 ## Talks
 
