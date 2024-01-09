@@ -121,14 +121,20 @@
 - Programação Linear Mista para escalonamento de containers - Latinoware 2023 - **(PT-BR)** - [https://latinoware.org/](https://lapsi.latinoware.org/index.php/program/day/156)
 - Programação Linear Mista para escalonamento de containers - Semana de Tecnologia e Inovação da Universidade Federal do Norte Fluminense - **(PT-BR)**
 - Programação Linear Mista para escalonamento de containers - Aniversário LinuxTIPS - **(PT-BR)**
-- TBD - PGConf Cascavél 2023 - **(PT-BR)**
-- TBD - Google Brasil Meetup - **(PT-BR)**
+- Google Brasil Meetup - Esquenta São Paulo 2024 - https://rsvp.withgoogle.com/events/pi-esquenta-devopsdays - **(PT-BR)**
 - Adicione ML aos seus aplicativos por meio de consultas simples ao banco de dados com BigQuery ML - DevOpsDays Recife - **(PT-BR)** - https://devopsdays.org/events/2023-recife/welcome
 - Programação Linear Mista para escalonamento de containers - SBPO - **(PT-BR)** - https://eventos.galoa.com.br/sbpo-2023
 - Container Scheduling in Kubernetes Clusters Using a Mixed Integer Linear Programming Approach - ICUMT 2023 - https://icumt.info/2023/
 - Kubecon 2023: overview - Meetup Hashicorp Rio de Janeiro - https://www.meetup.com/pt-BR/rio-de-janeiro-hashicorp-user-group/events/293657830/
 - Prototipando Ideias - Terraform em Microsserviços - Google Brasil - **(PT-BR)** - https://rsvp.withgoogle.com/events/prototipando-ideias-16ago
+- Meetup Linuxtips Oracle - **(PT-BR)**
 - Palestra para Portugal - DevOps - DevPT no Discord - **(PT-BR)** - https://discord.gg/zMyd4hjp 
+
+### 2024
+
+- Meetup Juiz de Fora - Janeiro - **(PT-BR)**
+- Hearts - Docker para o coração - **(PT-BR)** - https://discord.gg/he4rt
+- Mestre de Cerimônia - KCD São Paulo - **(PT-BR)** - https://www.sympla.com.br/evento/kcd-sao-paulo-brasil-2024/2255650?referrer=www.google.com
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
