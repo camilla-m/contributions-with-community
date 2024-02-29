@@ -134,7 +134,9 @@
 
 - Meetup Juiz de Fora - Janeiro - **(PT-BR)**
 - Hearts - Docker para o coração - **(PT-BR)** - https://discord.gg/he4rt
-- Mestre de Cerimônia - KCD São Paulo - **(PT-BR)** - https://www.sympla.com.br/evento/kcd-sao-paulo-brasil-2024/2255650?referrer=www.google.com
+- Voices of Cloud Native - KCD - **(PT-BR)** - https://www.sympla.com.br/evento/kcd-sao-paulo-brasil-2024/2255650?referrer=www.google.com
+- Terraform 101 - **(PT-BR)** - https://www.meetup.com/rio-de-janeiro-hashicorp-user-group/events/298883564/
+- Using Terraform to migrate to containers: journey about security - HASHITALKS - https://events.hashicorp.com/hashitalks2024 
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
