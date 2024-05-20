@@ -136,7 +136,10 @@
 - Hearts - Docker para o coração - **(PT-BR)** - https://discord.gg/he4rt
 - Voices of Cloud Native - KCD - **(PT-BR)** - https://www.sympla.com.br/evento/kcd-sao-paulo-brasil-2024/2255650?referrer=www.google.com
 - Terraform 101 - **(PT-BR)** - https://www.meetup.com/rio-de-janeiro-hashicorp-user-group/events/298883564/
-- Using Terraform to migrate to containers: journey about security - HASHITALKS - https://events.hashicorp.com/hashitalks2024 
+- Using Terraform to migrate to containers: journey about security - HASHITALKS - https://events.hashicorp.com/hashitalks2024
+- DevOps no Exterior - **(PT-BR)** - https://www.awswomencommunitybrasil.com/
+- DevOps no Exterior - **(PT-BR)** - [TECHHUBjf](https://techhubjf.org/)
+- Docker com AI - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/300579206/
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
@@ -152,6 +155,7 @@
 - **KubeCon + CloudNativeCon Europe 2020** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
 - **KubeCon + CloudNativeCon Europe 2021** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
 - **DevOpsDays Chicago 2023 and Organizer Summit** - https://devopsdays.org/events/2023-chicago/welcome/
+- **Google I/O and Google North America** - https://io.google/2024/
 
 ## Community Leader
 
