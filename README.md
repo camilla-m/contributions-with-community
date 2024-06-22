@@ -9,6 +9,7 @@
 
 - Docker Community Leader Award 2020
 - Docker Community Leader Award 2022
+- Docker Captain Award 2024
 
 ## Titles
 
@@ -140,6 +141,9 @@
 - DevOps no Exterior - **(PT-BR)** - https://www.awswomencommunitybrasil.com/
 - DevOps no Exterior - **(PT-BR)** - [TECHHUBjf](https://techhubjf.org/)
 - Docker com AI - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/300579206/
+- Google I/O After Party 2024 - **(PT-BR)** - https://www.youtube.com/watch?v=UNi1nMojfTM
+- Hipercomputadores e IA - Google I/O Extended Brasília - **(PT-BR)** - https://doity.com.br/google-io-extended-brasilia-2024
+- Bondão pelo Rio Grande do Sul - Carreira e como participar de Comunidades - LinuxTips - **(PT-BR)** - https://www.youtube.com/watch?v=HtXx6FRHfV4
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
