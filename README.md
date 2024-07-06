@@ -110,6 +110,7 @@
 - CloudNative 5G: o que esperar para o futuro? - **(PT-BR)** - https://aratu.boitatech.com.br
 - Latinoware - Elasticidade de rede em Kubernetes com edge e 5G Cloud Native - **(PT-BR)** - https://www.youtube.com/live/1njvoi_x4CY?feature=share&t=17981
 - Workshop - Programaria - Zero to Hero: criando Kubernetes e fazendo sua manutenção  - **(PT-BR)** - https://vamosjuntes.programaria.org/summit22-agenda
+- Esquenta DevFest Sudeste - **(PT-BR)** - Trends de DevOps - https://gdg.community.dev/events/details/google-gdg-sorocaba-presents-esquenta-devfest-sudeste/ 
 
 ### 2023
  
@@ -129,7 +130,8 @@
 - Kubecon 2023: overview - Meetup Hashicorp Rio de Janeiro - https://www.meetup.com/pt-BR/rio-de-janeiro-hashicorp-user-group/events/293657830/
 - Prototipando Ideias - Terraform em Microsserviços - Google Brasil - **(PT-BR)** - https://rsvp.withgoogle.com/events/prototipando-ideias-16ago
 - Meetup Linuxtips Oracle - **(PT-BR)**
-- Palestra para Portugal - DevOps - DevPT no Discord - **(PT-BR)** - https://discord.gg/zMyd4hjp 
+- Palestra para Portugal - DevOps - DevPT no Discord - **(PT-BR)** - https://discord.gg/zMyd4hjp
+- DevFest Bahia - **(PT-BR)** - Kubeflow no GKE - https://www.instagram.com/p/CzrXrgogoXw/?igsh=cTJ6cGhtOWo1YWt0
 
 ### 2024
 
