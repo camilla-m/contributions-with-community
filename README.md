@@ -146,11 +146,18 @@
 - Google I/O After Party 2024 - **(PT-BR)** - https://www.youtube.com/watch?v=UNi1nMojfTM
 - Hipercomputadores e IA - Google I/O Extended Brasília - **(PT-BR)** - https://doity.com.br/google-io-extended-brasilia-2024
 - Bondão pelo Rio Grande do Sul - Carreira e como participar de Comunidades - LinuxTips - **(PT-BR)** - https://www.youtube.com/watch?v=HtXx6FRHfV4
+- Recap Google I/O 2024 - Google I/O Extended Joinville - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-joinville-presents-google-io-extended-gdg-joinville/
+- Recap Google I/O 2024 - Google Prototipando Ideias - **(PT-BR)** - https://rsvp.withgoogle.com/events/pi-devops
+- Recap Docker Captains Summit Lisboa - Docker Rio - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/301427879/
+- Kubernetes: como começar - Hearts Devs - **(PT-BR)** - https://discord.gg/he4rt
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
 - Kubernetes com edge e 5G Cloud Native - DevOpsDays Fortaleza **(PT-BR)** - 2022 - https://devopsdays.org/events/2022-fortaleza/speakers/camilla-martins/
 - Saindo das VMs para containers - DevOpsDays Goiânia **(PT-BR)** - 2023 - https://devopsdays.org/events/2023-goiania/program
+- DevOps beyond tools: did we forget about culture? - DevOpsDays Nashville - 2024 - https://devopsdays.org/events/2024-nashville/program/camilla-martins
+- DevOps além das ferramentas: precisamos falar de cultura! - DevOpsDays João Pessoa  **(PT-BR)** - 2024 - https://devopsdays.org/events/2024-joao-pessoa/welcome/
+- Programação Inteira para Otimizar custos em Kubernetes - DevOpsDays Fortaleza  **(PT-BR)** - 2024 - https://www.instagram.com/p/C8VbSk0CsEo/
 
 ## Code contribution
 
