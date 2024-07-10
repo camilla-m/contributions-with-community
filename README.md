@@ -147,7 +147,7 @@
 - Hipercomputadores e IA - Google I/O Extended Brasília - **(PT-BR)** - https://doity.com.br/google-io-extended-brasilia-2024
 - Bondão pelo Rio Grande do Sul - Carreira e como participar de Comunidades - LinuxTips - **(PT-BR)** - https://www.youtube.com/watch?v=HtXx6FRHfV4
 - Recap Google I/O 2024 - Google I/O Extended Joinville - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-joinville-presents-google-io-extended-gdg-joinville/
-- Recap Google I/O 2024 - Google Prototipando Ideias - **(PT-BR)** - https://rsvp.withgoogle.com/events/pi-devops
+- Recap Google I/O 2024 - Google Prototipando Ideias - **(PT-BR)** - https://rsvp.withgoogle.com/events/pi-devops - https://www.youtube.com/watch?v=w93sWxkxEaE
 - Recap Docker Captains Summit Lisboa - Docker Rio - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/301427879/
 - Kubernetes: como começar - Hearts Devs - **(PT-BR)** - https://discord.gg/he4rt
 
