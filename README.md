@@ -150,6 +150,8 @@
 - Recap Google I/O 2024 - Google Prototipando Ideias - **(PT-BR)** - https://rsvp.withgoogle.com/events/pi-devops - https://www.youtube.com/watch?v=w93sWxkxEaE
 - Recap Docker Captains Summit Lisboa - Docker Rio - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/301427879/
 - Kubernetes: como começar - Hearts Devs - **(PT-BR)** - https://discord.gg/he4rt
+- Webinar sobre TestContainers - **(PT-BR)** - LinuxTips - https://www.linkedin.com/feed/update/urn:li:activity:7217611178607321088/
+- KCD Peru - **(Spanish)** - Integer Programming to optimize costs in Kubernetes - https://community.cncf.io/events/details/cncf-kcd-lima-peru-presents-kcd-lima-peru-2024/
 
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
