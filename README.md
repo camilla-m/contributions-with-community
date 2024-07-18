@@ -151,6 +151,7 @@
 - Recap Docker Captains Summit Lisboa - Docker Rio - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/301427879/
 - Kubernetes: como começar - Hearts Devs - **(PT-BR)** - https://discord.gg/he4rt
 - Webinar sobre TestContainers - **(PT-BR)** - LinuxTips - https://www.linkedin.com/feed/update/urn:li:activity:7217611178607321088/
+- Google I/O Extended São Paulo - Onde começar com DevOps? - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-sao-paulo-presents-google-io-extended-sao-paulo-2024/
 - KCD Peru - **(Spanish)** - Integer Programming to optimize costs in Kubernetes - https://community.cncf.io/events/details/cncf-kcd-lima-peru-presents-kcd-lima-peru-2024/
 
 ## Keynote
