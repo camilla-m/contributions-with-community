@@ -157,6 +157,7 @@
 - Minicurso Docker - Google I/O Extended Natal - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-natal-presents-google-io-extended-natal-2024/
 - Recap Google I/O 2024 - Google I/O Extended Lauro de Freitas - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-lauro-de-freitas-presents-google-io-extended-lauro-de-freitas-2024/
 - Recap Google I/O 2024 - Google I/O Extended Pelotas - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-pelotas-presents-google-io-extended-pelotas-2024/
+- Terraform na migração de containers com segurança e ferramentas Aquasec - Hashitalks Brasil - **(PT-BR)** - https://events.hashicorp.com/hashitalksbrasil
 
   
 ## Keynote
