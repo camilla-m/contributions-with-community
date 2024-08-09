@@ -153,7 +153,12 @@
 - Webinar sobre TestContainers - **(PT-BR)** - LinuxTips - https://www.linkedin.com/feed/update/urn:li:activity:7217611178607321088/
 - Google I/O Extended São Paulo - Onde começar com DevOps? - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-sao-paulo-presents-google-io-extended-sao-paulo-2024/
 - KCD Peru - **(Spanish)** - Integer Programming to optimize costs in Kubernetes - https://community.cncf.io/events/details/cncf-kcd-lima-peru-presents-kcd-lima-peru-2024/
+- Recap Google I/O 2024 - Google I/O Extended Natal - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-natal-presents-google-io-extended-natal-2024/
+- Minicurso Docker - Google I/O Extended Natal - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-natal-presents-google-io-extended-natal-2024/
+- Recap Google I/O 2024 - Google I/O Extended Lauro de Freitas - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-lauro-de-freitas-presents-google-io-extended-lauro-de-freitas-2024/
+- Recap Google I/O 2024 - Google I/O Extended Pelotas - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-pelotas-presents-google-io-extended-pelotas-2024/
 
+  
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
 - Kubernetes com edge e 5G Cloud Native - DevOpsDays Fortaleza **(PT-BR)** - 2022 - https://devopsdays.org/events/2022-fortaleza/speakers/camilla-martins/
