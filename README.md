@@ -139,7 +139,7 @@
 - Hearts - Docker para o coração - **(PT-BR)** - https://discord.gg/he4rt
 - Voices of Cloud Native - KCD - **(PT-BR)** - https://www.sympla.com.br/evento/kcd-sao-paulo-brasil-2024/2255650?referrer=www.google.com
 - Terraform 101 - **(PT-BR)** - https://www.meetup.com/rio-de-janeiro-hashicorp-user-group/events/298883564/
-- Using Terraform to migrate to containers: journey about security - HASHITALKS - https://events.hashicorp.com/hashitalks2024
+- Using Terraform to migrate to containers: journey about security - HASHITALKS **(English)**  https://events.hashicorp.com/hashitalks2024
 - DevOps no Exterior - **(PT-BR)** - https://www.awswomencommunitybrasil.com/
 - DevOps no Exterior - **(PT-BR)** - [TECHHUBjf](https://techhubjf.org/)
 - Docker com AI - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/300579206/
@@ -158,6 +158,15 @@
 - Recap Google I/O 2024 - Google I/O Extended Lauro de Freitas - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-lauro-de-freitas-presents-google-io-extended-lauro-de-freitas-2024/
 - Recap Google I/O 2024 - Google I/O Extended Pelotas - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-pelotas-presents-google-io-extended-pelotas-2024/
 - Terraform na migração de containers com segurança e ferramentas Aquasec - Hashitalks Brasil - **(PT-BR)** - https://events.hashicorp.com/hashitalksbrasil
+- Road to DevFest Lima 2024 - Gemini y DevOps: que esperar del futuro? - **(Spanish)** - https://www.youtube.com/watch?v=NhV5oIHM69k
+-  TDC São Paulo - Cilium, eBPF, Kubernetes e Gemini - **(PT-BR)** - https://thedevconf.com/tdc/2024/sao-paulo/trilha-cloud
+-  DevOpsDays Fortaleza - Keynote - Integer Programming to optimize costs in Kubernetes - **(PT-BR)** - https://devopsdays.org/events/2024-fortaleza/speakers/
+-  PythonSul - Safe environment with Terraform, Aquasec and Python - **(PT-BR)** - https://sul.python.org.br/#pre-lineup
+-  DevOpsDays Belo Horizonte - Safe environment with Terraform and Aquasec - **(PT-BR)** - https://devopsdays.org/events/2024-belo-horizonte/program
+-  Soberania Digital e Popular - Núcleo MTST de Tecnologia - **(PT-BR)** -  https://www.instagram.com/p/C_yBUnPvuW0/?img_index=1
+-  Workshop Docker, VeeCode and Pipelines - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/303469005/?eventorigin=group_upcoming_events
+-  DevOpsDays in Brazil - Organizer Summit 2024 - **(English)** - https://devopsdays.org/events/2024-organiser-summit/program
+-  DevOpsDays Antwerp 2024 - Integer Programming to optimize costs in Kubernetes - **(English)** - https://devopsdays.org/events/2024-antwerp/program
 
   
 ## Keynote
