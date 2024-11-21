@@ -191,6 +191,7 @@
 - **KubeCon + CloudNativeCon Europe 2021** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
 - **DevOpsDays Chicago 2023 and Organizer Summit** - https://devopsdays.org/events/2023-chicago/welcome/
 - **Google I/O and Google North America** - https://io.google/2024/
+- **KubeCon + CloudNativeCon NA 2024** - https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
 
 ## Community Leader
 
