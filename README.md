@@ -167,7 +167,10 @@
 -  Workshop Docker, VeeCode and Pipelines - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/303469005/?eventorigin=group_upcoming_events
 -  DevOpsDays in Brazil - Organizer Summit 2024 - **(English)** - https://devopsdays.org/events/2024-organiser-summit/program
 -  DevOpsDays Antwerp 2024 - Integer Programming to optimize costs in Kubernetes - **(English)** - https://devopsdays.org/events/2024-antwerp/program
-
+- Hashiconf - Hallway Track - Terraform and Gemini - **(English)** - https://www.hashicorp.com/conferences/hashiconf
+- DevFest Santiago 2024 - Gemini, DevOps y cultura - **Español** - https://gdg.community.dev/events/details/google-gdg-santiago-de-chile-presents-devfest-santiago-2024-innovacion-ia-responsable-y-comunidad/cohost-gdg-santiago-de-chile
+- DevFest Triângulo 2024 - O que DevOps e IA podem contribuir em comum: falas sobre Gemini, GKE, DataOps e responsabilidade social! - **(PT-BR)** - https://devfesttriangulo.com.br/speakers/
+- Portera Tech - DevOps e carreira internacional - **(PT-BR)** - https://www.instagram.com/p/DBFcSm-sCWh/ 
   
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
