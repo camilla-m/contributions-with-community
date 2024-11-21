@@ -177,7 +177,8 @@
 - Kubernetes com edge e 5G Cloud Native - DevOpsDays Fortaleza **(PT-BR)** - 2022 - https://devopsdays.org/events/2022-fortaleza/speakers/camilla-martins/
 - Saindo das VMs para containers - DevOpsDays Goiânia **(PT-BR)** - 2023 - https://devopsdays.org/events/2023-goiania/program
 - DevOps beyond tools: did we forget about culture? - DevOpsDays Nashville - 2024 - https://devopsdays.org/events/2024-nashville/program/camilla-martins
-- DevOps além das ferramentas: precisamos falar de cultura! - DevOpsDays João Pessoa  **(PT-BR)** - 2024 - https://devopsdays.org/events/2024-joao-pessoa/welcome/
+- DevOps além das ferramentas: precisamos falar de cultura! - DevOpsDays Recife  **(PT-BR)** - 2024 - https://devopsdays.org/events/2024-recife/welcome/
+- Cilium, IA e DevOps - DevOpsDays Salvador **(PT-BR)** - 2024 - https://devopsdays.org/events/2024-salvador/welcome/
 - Programação Inteira para Otimizar custos em Kubernetes - DevOpsDays Fortaleza  **(PT-BR)** - 2024 - https://www.instagram.com/p/C8VbSk0CsEo/
 
 ## Code contribution
