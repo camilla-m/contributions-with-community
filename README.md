@@ -10,6 +10,7 @@
 - Docker Community Leader Award 2020
 - Docker Community Leader Award 2022
 - Docker Captain Award 2024
+- Elastic contributor in community Award in 2023
 
 ## Titles
 
