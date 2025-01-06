@@ -20,6 +20,7 @@
 - Docker Captain
 - Impulso Expert
 - Google Developer Group Organizer
+- Kubernetes Community Days Organizer
 
 ## Languages
 
