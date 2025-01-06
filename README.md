@@ -170,7 +170,13 @@
 - Hashiconf - Hallway Track - Terraform and Gemini - **(English)** - https://www.hashicorp.com/conferences/hashiconf
 - DevFest Santiago 2024 - Gemini, DevOps y cultura - **Español** - https://gdg.community.dev/events/details/google-gdg-santiago-de-chile-presents-devfest-santiago-2024-innovacion-ia-responsable-y-comunidad/cohost-gdg-santiago-de-chile
 - DevFest Triângulo 2024 - O que DevOps e IA podem contribuir em comum: falas sobre Gemini, GKE, DataOps e responsabilidade social! - **(PT-BR)** - https://devfesttriangulo.com.br/speakers/
-- Portera Tech - DevOps e carreira internacional - **(PT-BR)** - https://www.instagram.com/p/DBFcSm-sCWh/ 
+- Portera Tech - DevOps e carreira internacional - **(PT-BR)** - https://www.instagram.com/p/DBFcSm-sCWh/
+- Terraform, GCP e Docker - **(PT-BR)** https://www.meetup.com/pt-BR/rio-de-janeiro-hashicorp-user-group/events/304398151/?eventorigin=group_upcoming_events
+- Cilium, eBPF y insights con Gemini - DevFest Ecuador - **Español** - https://gdg.community.dev/events/details/google-gdg-guayaquil-presents-devfest-ecuador-2024/
+
+### 2025
+
+- Cilium, Terraform y eBPF - Hashitalks LATAM - **Español** - https://events.hashicorp.com/hashitalksamericalatina
   
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
