@@ -19,6 +19,7 @@
 - Google Champion Innovator
 - Docker Captain
 - Impulso Expert
+- Google Developer Group Organizer
 
 ## Languages
 
