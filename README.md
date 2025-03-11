@@ -180,6 +180,16 @@
 ### 2025
 
 - Cilium, Terraform y eBPF - Hashitalks LATAM - **Español** - https://events.hashicorp.com/hashitalksamericalatina
+- DevLokos S2 Ep006 - Impacto de DevOps en el mercado y las oportunidades - **Español** - https://www.youtube.com/watch?v=kzrGDrjHxaU&t=4s
+- KubeEdge e Containers - **(PT-BR)** - https://www.youtube.com/watch?v=6avNT7jRFQQ
+- A VIDA PUNK DE DEVOPS - **(PT-BR)** - https://www.youtube.com/watch?v=vcK1gVDFJO8&t=22s
+- Hashitalks - Eeemeec  **English** - https://www.youtube.com/watch?v=04qQJPfJOas
+- Primeiros passos com Kubernetes - CNCF Meetup - **(PT-BR)** https://www.instagram.com/p/DFyNVSly68Q/
+- GCP, Gemini, GKE e Cilium - Meetup Garanhus DevOpsDays - **(PT-BR)** - https://www.instagram.com/p/DFiBcqPOMBG/?img_index=2
+- DevOps Live - apinheira_tech instagram - **(PT-BR)** - https://www.instagram.com/p/DE7otwrgLCF/?img_index=1
+- IA e responsabilidade social - **(PT-BR)** - Movimento - https://www.instagram.com/p/DGB4KkFRCQp/
+- Primeiros passos em DevOps - IWD Rio de Janeiro - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-international-womens-day-rio-de-janeiro/
+- Cilium e eBPF - KCD Rio de Janeiro - **(PT-BR)** - https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-rio-de-janeiro-brasil-2025/
   
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
