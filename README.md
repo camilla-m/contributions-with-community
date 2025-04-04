@@ -190,6 +190,7 @@
 - IA e responsabilidade social - **(PT-BR)** - Movimento - https://www.instagram.com/p/DGB4KkFRCQp/
 - Primeiros passos em DevOps - IWD Rio de Janeiro - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-international-womens-day-rio-de-janeiro/
 - Cilium e eBPF - KCD Rio de Janeiro - **(PT-BR)** - https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-rio-de-janeiro-brasil-2025/
+- Docker, CI/CD, Gemini - Itaú Docker Day **(PT-BR)** - https://www.linkedin.com/posts/camilla-martins-603344115_docker-itau-activity-7313365609738649600-ViFp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
   
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
