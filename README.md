@@ -192,6 +192,10 @@
 - Cilium e eBPF - KCD Rio de Janeiro - **(PT-BR)** - https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-rio-de-janeiro-brasil-2025/
 - Docker, CI/CD, Gemini - Itaú Docker Day **(PT-BR)** - https://www.linkedin.com/posts/camilla-martins-603344115_docker-itau-activity-7313365609738649600-ViFp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 - Google Cloud Podcast - Código que escreve código: impacto de IA para devs - **(PT-BR)** - https://open.spotify.com/episode/7xh5CVxoCYCcAKecYMsyhY?si=sKvSMpzHSnig5nlfq5vRVQ
+- TalentLand MX - Intro to Gemini - **(ES)** - https://talent-land.mx/en/home
+- IWD Camino LATAM Bogotá - Panel de energia sostenible y charla de DevOps con Gemini - **(ES)** - https://lu.ma/cvllccvl
+- MMMT 2025 - GCP, Gemini, GKE e Cilium - **(PT-BR)** - https://www.instagram.com/p/DJFChoBOlv1/?img_index=8
+- IFSP COTESI 2025 - GCP, Gemini, GKE e Cilium - **(PT-BR)** - https://www.instagram.com/p/DJcSbDNuAtk/
   
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
