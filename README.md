@@ -198,6 +198,7 @@
 - IFSP COTESI 2025 - GCP, Gemini, GKE e Cilium - **(PT-BR)** - https://www.instagram.com/p/DJcSbDNuAtk/
 - Build With AI Belém - Potencializando o Terraform com Gemini - **(PT-BR)** - https://www.instagram.com/p/DKDeKSONgGW/?img_index=2
 - KCD Guatemala - Cilium, eBPF y insights con Gemini - **(ES)** - https://community.cncf.io/events/details/cncf-kcd-guatemala-presents-kcd-antigua-guatemala-2025/
+- DevOps e Cloud - Alura 12 anos - **(PT-BR)** - https://www.youtube.com/watch?v=_y7UXr5mEPg
   
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
