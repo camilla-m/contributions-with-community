@@ -11,6 +11,7 @@
 - Docker Community Leader Award 2022
 - Docker Captain Award 2024
 - Elastic contributor in community Award in 2023
+- Build With AI Bolivia 2025 - Contributions for Community
 
 ## Titles
 
@@ -199,6 +200,12 @@
 - Build With AI Belém - Potencializando o Terraform com Gemini - **(PT-BR)** - https://www.instagram.com/p/DKDeKSONgGW/?img_index=2
 - KCD Guatemala - Cilium, eBPF y insights con Gemini - **(ES)** - https://community.cncf.io/events/details/cncf-kcd-guatemala-presents-kcd-antigua-guatemala-2025/
 - DevOps e Cloud - Alura 12 anos - **(PT-BR)** - https://www.youtube.com/watch?v=_y7UXr5mEPg
+- Podcast Kubernetes and Cloud Native Trends, with Alain Regnier and Camilla Martins - **(EN)** - https://kubernetespodcast.com/episode/254-cntrends/
+- Aumentando a Produtividade em Iac com IA - **(PT-BR)** - https://www.youtube.com/watch?v=TqfCVWNdUt0
+- Mentoring and judging projects at BWAI Bolivia - **(ES)** - https://gdg.community.dev/events/details/google-gdg-la-paz-presents-hackthon-build-with-ai-bolivia-2025/cohost-gdg-la-paz
+- FraudFinder with BigQuery and Vertex AI - **(ES)** - https://gdg.community.dev/events/details/google-gdg-cuenca-presents-build-with-ai-ecuador-2025/
+- [Imersão DevOps] Abertura - Como Aproveitar ao Máximo a Imersão DevOps  - **(PT-BR)** -  https://www.youtube.com/watch?v=gP673lGrQks&t=192s
+-  [Imersão DevOps] Encerramento - DevOps Além da Imersão: Dicas, Direções e Oportunidades - **(PT-BR)** - https://www.youtube.com/watch?v=N_eKawJPa10&t=42s
   
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
