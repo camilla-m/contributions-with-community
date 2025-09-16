@@ -206,6 +206,14 @@
 - FraudFinder with BigQuery and Vertex AI - **(ES)** - https://gdg.community.dev/events/details/google-gdg-cuenca-presents-build-with-ai-ecuador-2025/
 - [Imersão DevOps] Abertura - Como Aproveitar ao Máximo a Imersão DevOps  - **(PT-BR)** -  https://www.youtube.com/watch?v=gP673lGrQks&t=192s
 -  [Imersão DevOps] Encerramento - DevOps Além da Imersão: Dicas, Direções e Oportunidades - **(PT-BR)** - https://www.youtube.com/watch?v=N_eKawJPa10&t=42s
+-  GDG Open Lima - Cilium, eBPF y insights con Gemini - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_gemini-gdg-openlima-activity-7369163696608002048-X8u4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+-  KubeEdge - FHCN - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_orquestaci%C3%B3n-y-simulaci%C3%B3n-kubernetes-y-genai-activity-7361916007453458433-WLJV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+-  Como começar em DevOps? - Rio Innovation Week - **(PT-BR)** - https://www.linkedin.com/posts/camilla-martins-603344115_google-gemini-hacktown-activity-7359360810336378880-YxEH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+-  Introdução ao Gemini 2.5 Pro - Hacktown - **(PT-BR)** - https://www.linkedin.com/posts/camilla-martins-603344115_google-gemini-hacktown-activity-7359360810336378880-YxEH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+-  Terraform & Terraformer - Hashitalks Brasil - **(PT-BR)** - https://www.linkedin.com/posts/camilla-martins-603344115_esta-semana-estarei-no-hashicorp-hashitalk-activity-7358491568858632192-VzxT?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+-  Intelligent Containers: Docker and Gemini for AI-Driven Development - DevOpsDays Santiago - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_presentamos-a-nuestro-decimo-y-ultimo-activity-7357410801420251136-wNfv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+-  Cilium, eBPF y insights con Gemini - KCD Colombia - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_kcdcolombia-cloudnative-ebpf-activity-7356666982185734144-xQos/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+-  Cilium, eBPF y insights con Gemini - KCD Lima - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_kcdlima2025-kcdlima2025-kubernetes-activity-7352093251866099713-73MU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
   
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
