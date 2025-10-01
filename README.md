@@ -214,6 +214,7 @@
 -  Intelligent Containers: Docker and Gemini for AI-Driven Development - DevOpsDays Santiago - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_presentamos-a-nuestro-decimo-y-ultimo-activity-7357410801420251136-wNfv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 -  Cilium, eBPF y insights con Gemini - KCD Colombia - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_kcdcolombia-cloudnative-ebpf-activity-7356666982185734144-xQos/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 -  Cilium, eBPF y insights con Gemini - KCD Lima - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_kcdlima2025-kcdlima2025-kubernetes-activity-7352093251866099713-73MU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+-  SBPO - Heuristic Approaches to the Container Scheduling Problem in Kubernetes Orchestrators - PhD Work - https://sbpo2025.galoa.com.br/sbpo-2025/page/6916-oficial-57-sbpo?lang=pt-br
   
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
