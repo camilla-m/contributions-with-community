@@ -206,6 +206,7 @@
 - FraudFinder with BigQuery and Vertex AI - **(ES)** - https://gdg.community.dev/events/details/google-gdg-cuenca-presents-build-with-ai-ecuador-2025/
 - [Imersão DevOps] Abertura - Como Aproveitar ao Máximo a Imersão DevOps  - **(PT-BR)** -  https://www.youtube.com/watch?v=gP673lGrQks&t=192s
 -  [Imersão DevOps] Encerramento - DevOps Além da Imersão: Dicas, Direções e Oportunidades - **(PT-BR)** - https://www.youtube.com/watch?v=N_eKawJPa10&t=42s
+-  Google Summit - Panel: GDE and GDGs - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_peru-gdg-gde-activity-7376652142792704000-Qm8h?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 -  GDG Open Lima - Cilium, eBPF y insights con Gemini - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_gemini-gdg-openlima-activity-7369163696608002048-X8u4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 -  KubeEdge - FHCN - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_orquestaci%C3%B3n-y-simulaci%C3%B3n-kubernetes-y-genai-activity-7361916007453458433-WLJV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 -  Como começar em DevOps? - Rio Innovation Week - **(PT-BR)** - https://www.linkedin.com/posts/camilla-martins-603344115_google-gemini-hacktown-activity-7359360810336378880-YxEH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
@@ -215,6 +216,10 @@
 -  Cilium, eBPF y insights con Gemini - KCD Colombia - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_kcdcolombia-cloudnative-ebpf-activity-7356666982185734144-xQos/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 -  Cilium, eBPF y insights con Gemini - KCD Lima - **(ES)** - https://www.linkedin.com/posts/camilla-martins-603344115_kcdlima2025-kcdlima2025-kubernetes-activity-7352093251866099713-73MU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 -  SBPO - Heuristic Approaches to the Container Scheduling Problem in Kubernetes Orchestrators - PhD Work - https://sbpo2025.galoa.com.br/sbpo-2025/page/6916-oficial-57-sbpo?lang=pt-br
+-  Tech Maré - Workshop about DevOps - https://www.linkedin.com/posts/camilla-martins-603344115_tech-comunidade-mare-activity-7385073298142949376-BCnx?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+-  Docker and Docker Compose - DigiTech Cabo Verde - **(PT-BR)** - https://www.linkedin.com/posts/camilla-martins-603344115_this-next-thursday-7pm-at-cabo-verde-i-gonna-activity-7378509883102441472-8JgQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+-  ADK Agents, Terraform, Docker, GCP and Kubernetes - hashiconf **(EN)** - 2025 - https://www.instagram.com/p/DPISm9JjuiA/?img_index=11
+  
   
 ## Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
@@ -224,6 +229,7 @@
 - DevOps além das ferramentas: precisamos falar de cultura! - DevOpsDays Recife  **(PT-BR)** - 2024 - https://devopsdays.org/events/2024-recife/welcome/
 - Cilium, IA e DevOps - DevOpsDays Salvador **(PT-BR)** - 2024 - https://devopsdays.org/events/2024-salvador/welcome/
 - Programação Inteira para Otimizar custos em Kubernetes - DevOpsDays Fortaleza  **(PT-BR)** - 2024 - https://www.instagram.com/p/C8VbSk0CsEo/
+- ADK Agents, Terraform, Docker, GCP and Kubernetes - DevOpsDays Campinas **(PT-BR)** - 2025 - https://www.linkedin.com/posts/camilla-martins-603344115_tech-devops-activity-7386118461879472128-8xsA?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 
 ## Code contribution
 
