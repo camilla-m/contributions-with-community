@@ -219,6 +219,15 @@
 -  Tech Maré - Workshop about DevOps - https://www.linkedin.com/posts/camilla-martins-603344115_tech-comunidade-mare-activity-7385073298142949376-BCnx?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 -  Docker and Docker Compose - DigiTech Cabo Verde - **(PT-BR)** - https://www.linkedin.com/posts/camilla-martins-603344115_this-next-thursday-7pm-at-cabo-verde-i-gonna-activity-7378509883102441472-8JgQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 -  ADK Agents, Terraform, Docker, GCP and Kubernetes - hashiconf **(EN)** - 2025 - https://www.instagram.com/p/DPISm9JjuiA/?img_index=11
+-  Meninas Digitais UNIRIO: Carreira - **(PT-BR)** - https://www.linkedin.com/in/camilla-martins-603344115/
+-  DECODE Podcast - **(PT-BR)** - https://www.youtube.com/watch?v=EM8q1c4Uzh8
+-  MesaCast LinuxTips - **(PT-BR)** - https://www.youtube.com/watch?v=FYfUDxJiYp4
+-  DevOpsDays Recife - Bulletproof DevOps - **(PT-BR)** - https://www.instagram.com/p/DQ5F8GcD245/
+-  DevFest Porto Alegre - Cilium e eBPF - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-dev-fest-porto-alegre-2025-1/cohost-gdg-porto-alegre/
+-  DevFest BH - Gemini e DevOps - **(PT-BR)** - https://www.linkedin.com/posts/camilla-martins-603344115_devfest-google-gemini-activity-7394089058525659136-zsux/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+
+### 2026
+- HashiTalks Espanha - Gemini y Terraform -  **(ES)** - https://events.hashicorp.com/hashitalksespana
   
   
 ## Keynote
