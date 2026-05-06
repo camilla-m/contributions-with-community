@@ -1,185 +1,90 @@
-# Contributions with community
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Camilla%20Martins&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Contributions%20with%20Community&descAlignY=58&descAlign=50" width="100%" />
 
-## Course
+  <br />
 
+  <img src="https://img.shields.io/badge/Google%20Cloud-Expert-blue?style=for-the-badge&logo=google-cloud" alt="Google Cloud Expert" />
+  <img src="https://img.shields.io/badge/Docker-Captain-blue?style=for-the-badge&logo=docker" alt="Docker Captain" />
+  <img src="https://img.shields.io/badge/HashiCorp-Ambassador-black?style=for-the-badge&logo=hashicorp" alt="HashiCorp Ambassador" />
+
+  <br />
+  <p><i>Welcome to my community portfolio! Here you'll find a record of my talks, courses, awards, and community engagements!</i></p>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="#-talks"><b>🎤 Talks</b></a> •
+  <a href="#-awards--titles"><b>🏆 Awards & Titles</b></a> •
+  <a href="#-courses--languages"><b>📚 Courses & Languages</b></a> •
+  <a href="#-community"><b>🤝 Community</b></a>
+</div>
+
+<hr />
+
+
+<h2 id="-courses--languages">🚀 About & Skills</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Courses
 - Descomplicando o DevOps **(PT-BR)** - https://www.linuxtips.io/products/descomplicando-o-devops
 - Como é o Dia a Dia de um DevOps **(PT-BR)** - https://www.linuxtips.io/course/trabalhando-devops-engineer
+</td>
+<td width="50%" valign="top">
 
-## Awards
+### 🌍 Languages
+- Portuguese
+- English
+- Spanish
+- German
+</td>
+</tr>
+</table>
 
+
+<h2 id="-awards--titles">🏅 Recognition</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Awards
 - Docker Community Leader Award 2020
 - Docker Community Leader Award 2022
 - Docker Captain Award 2024
 - Elastic contributor in community Award in 2023
 - Build With AI Bolivia 2025 - Contributions for Community
+</td>
+<td width="50%" valign="top">
 
-## Titles
-
+### 👑 Titles
 - Docker Community Leader
 - Hashicorp Ambassador
 - Google Developer Expert (Google Cloud)
-- Google Champion Innovator
 - Docker Captain
-- Impulso Expert
 - Google Developer Group Organizer
-- Kubernetes Community Days Organizer
+</td>
+</tr>
+</table>
 
-## Languages
+<h2 id="-talks">🎤 Talks & Public Speaking</h2>
+<p><i>A chronological list of my speaking engagements, from the most recent to the very beginning.</i></p>
 
-- Portuguese
-- English
-- Spanish
-- German
+### 🗓️ 2026
+- HashiTalks Espanha - Gemini y Terraform -  **(ES)** - https://events.hashicorp.com/hashitalksespana
+- Google Cloud & AI Workshops at Talent Land - Mexico City - **(ES)** - https://www.instagram.com/reel/DW7eTvfj3UH/?igsh=NTQzbjB0Z2ZudGR3
+- International Women's Day Rio de Janeiro - Mentoring - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-international-womens-day-rio-de-janeiro-1
+- Migração de Console AWS para Terraform: Do Zero ao Estado com Infraestrutura como Código - Recife - **(PT-BR)** - https://pt.linkedin.com/posts/awsome-women-community-summit-brasil_cloudcomputing-aws-womenintech-activity-7437180516639965184-zT4
+- Primeiros Passos em DevOps - Rio de Janeiro - **(PT-BR)** - https://conteudo.alura.com.br/meetup-alura-fiap-rj-11-03-26
+- Beyond the Binary: 10 Years of Tech, Infrastructure, and Identity - IWD by GDG Quito - **(ES)** - https://gdg.community.dev/v0/events/details/google-gdg-quito-presents-iwd-by-gdg-quito
+- Kickoff 2026: Google, Docker & HashiCorp Stack - Rio de Janeiro - Mentoring - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-kickoff-2026-google-docker-hashicorp-stack/
+- MeetUp LINUXtips: DevOps e Kubernetes - Belém - **(PT-BR)** - https://tipara.com.br/belem-recebe-primeiro-meetup-linuxtips-com-laboratorios-praticos-de-devops-e-kubernetes
+- ML Driven Optimization - Google Cloud Next - **(EN)** - https://www.instagram.com/reel/DXXuWUrgXhx/?igsh=MTB0bWZxYjhneWNybg%3D%3D
+- Os Programadores - **(PT-BR)** - https://osprogramadores.com/podcast/podcast-148
+- Apresentação do Antigravity no GDG Rio de Janeiro - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-docker-birthday-amp-antigravity-party/
 
-## Talks
-
-### Until 2018
-
-- BrazilJs Weekly #235 with [Debora Cardu](http://twitter.com/deboracardu "Debora Cardu") - News about Javascript world **(PT-BR)** - https://www.youtube.com/watch?v=Bq0oD8r7aas
-- Why we still need to respect jQuery? **(PT-BR)** - https://en.eventials.com/Globalcode/events/javascript-tdconline-sp-2018-premium/
-- Three Ways **(PT-BR)** - https://devopsdays.org/events/2018-belem/program/camilla-martins
-- Malwares in Python with [Ingrid Murielem](http://twitter.com/ingridmurielem "Ingrid Murielem") **(PT-BR)** - https://thedevconf.com/tdc/2018/portoalegre/trilha-python;jsessionid=9B2349DB1242873347DF6823C9DD1EA7
-- Johnny Five **(PT-BR)** - https://thedevconf.com/tdc/2018/portoalegre/trilha-arduino-e-makers;jsessionid=9B2349DB1242873347DF6823C9DD1EA7
-- Javascript good practices with [Zalba Monteiro](http://twitter.com/zalbamonteiro "Zalba Monteiro") **(PT-BR)** - https://en.eventials.com/Globalcode/tdc-poa-2018-stadium-sabado-7/
-- NodeJs in house automation with [Jorge Leite](http://twitter.com/ujorgeleite "Jorge Leite") **(PT-BR)** - https://en.eventials.com/Globalcode/tdc-floripa-2018-stadium-sexta-7/
-- Three Ways **(PT-BR)** - https://devopsdays.org/events/2018-rio-de-janeiro/program/camilla-martins
-- Nodejs manifest in Puppet **(EN)** - https://www.youtube.com/watch?v=TkEZ7y0Z3jc
-- Nodejs with Python working as workers **(PT-BR)** - https://www.youtube.com/watch?v=4JWeasEbf3k
-- Women In Tech - Interview **(PT-BR)** - https://blog.umbler.com/br/mulheres-na-tecnologia-2-as-mulheres-da-umbler/
-- Podcast Women In tech **(PT-BR)** - https://academy.umbler.com/umblercast-mulheres-na-tecnologia/
-- Three Ways **(PT-BR)** - https://2018.latinoware.org/camilla-martins/
-- WomakersCode Rio **(PT-BR)** - https://www.sympla.com.br/womakerscode-summit-rio-2018__273462
-- TcheLinux Gravataí, Caxias do Sul, Bento Gonçalves (PT-BR)
-- Vue.js site in 10 minutes with [Debora Cardu](http://twitter.com/deboracardu "Debora Cardu") **(PT-BR) **- https://www.youtube.com/watch?v=0ROtvpWD0Dc
-- NodeGirls, Women In Tech interview **(PT-BR)** - https://www.youtube.com/watch?v=1RBX8o4i9n8
-
-### 2019
-
-- Monitoring Postgres RDS with Graylog **(PT-BR)** - https://www.infoq.com/br/presentations/monitoramento-postgres-RDS-graylog/?itm_source=presentations_about_PGConf-Brasil&itm_medium=link&itm_campaign=PGConf-Brasil
-- ElasticSearch + Nodejs (DevOps) **(PT-BR)** - https://en.eventials.com/Globalcode/https-www-eventials-com-globalcode-tdc-sp-2019-stadium-quinta-3/
-- Jenkins + Ansible **(PT-BR)** - https://2019.latinoware.org/2019/04/22/camilla-martins/
-- Feature Toggle **(PT-BR)** - https://devopsdays.org/events/2019-aracaju/speakers/camilla-martins
-- Django to organize backups **(PT-BR)** - https://2019.pythonbrasil.org.br/grade/
-
-### 2020
-
-- Jenkins + Ansible **(PT-BR)** - https://devopsdays.org/events/2020-vitoria/speakers/camilla-martins/
-- Automatizing rollbacks and working with blameless culture **(PT-BR)** - https://github.com/linuxtips/FiqueEmCasaConf
-- Jenkins + Ansible **(PT-BR)** - https://www.youtube.com/watch?v=H0mnLizeQxo
-- Implementing monitoring **(PT-BR)** - https://devopsdays.org/events/2020-porto-alegre/welcome/
-- DevOps - mercado e processos seletivos **(PT-BR)** - https://www.youtube.com/watch?v=eV5brULwuL4
-- DevOps - mercado e processos seletivos **(PT-BR)** - https://www.youtube.com/watch?v=zNnFeNUrqmE
-- DevOps - mercado e processos seletivos **(PT-BR)** - https://devopsdays.org/events/2020-fortaleza/program
-- DevSecOps - Como Desenvolver E Deployar Com Mais Segurança? **(PT-BR)** - https://devopsdays.org/events/2020-goiania/programacao
-- Under Attack: boas práticas em reactjs recomendados para proteger seu aplicativo contra problemas de segurança com  [Rob Robert](http://twitter.com/WonderlandOuts "Rob Robert") **(PT-BR)** - https://www.youtube.com/watch?v=nsvVjIb7WDk
-- Debate sobre Software Livre para o IFSP **(PT-BR)** - https://www.ifspcaraguatatuba.edu.br/noticias/atividade-cultural-realizada-pelo-ifsp-caraguatatuba-debateu-sobre-o-linux
-- GCP, processos de TV, Serverless e Python **(PT-BR)** - https://2020.pythonbrasil.org.br/grade/
-- Live de Python: Ansible e Colorado **(PT-BR)** - https://www.youtube.com/watch?v=22OxRcRxte8
-- DevSecOps - Como Desenvolver E Deployar Com Mais Segurança? **(PT-BR)** - https://www.youtube.com/watch?v=4UdFuuJLx2E
-- Bad Smells em Javascript **(PT-BR)** - https://braziljs.org/eventos/otr-rio-de-janeiro/2020/
-- Trabalhando com PHP Composer, Docker e Laravel **(PT-BR)** - https://online.php.locaweb.com.br/
-
-### 2021
-
-- Rebobinando com o Luide **(PT-BR)** - https://www.rebobinando.com.br/programar-e-punk-punk-do-devops/
-- Kubicast com GetUp **(PT-BR)** - https://blog.getupcloud.com/kubicast-66-914451ff0994
-- DevOpsDays Rio Organizer - https://devopsdays.org/events/2021-rio-de-janeiro/welcome
-- DockerCon em: Pipelines com Docker **(PT-BR)** - https://www.youtube.com/watch?v=Kc0kKrHOJ_g&t=7s
-- Revolushow sobre Trabalhadores de TI **(PT-BR)** - https://revolushow.com/102-trabalhadores-da-tecnologia-da-informacao/
-- Papo sobre DevSecOps para Computação URI **PT-BR** - https://www.youtube.com/watch?v=j025ST2KjjQ
-- DevOpsDays Porto Alegre - Custos em Kubernetes na migração de regiões  **(PT-BR)** - https://devopsdays.org/events/2021-porto-alegre/program
-- Podcast gravado com Feministech **(PT-BR)** - https://anchor.fm/feministech
-- Maratona Live Coder Girls **(PT-BR)** - https://maratona3.live
-- 10º Girls in ICT | Dia das Meninas nas Tecnologias de Informação e Comunicaçção (TIC) 2021 **(PT-BR)** - https://www.youtube.com/watch?v=xbKeTSfFW8s
-- Roadsec e contribuições sobre postagens do Mês LGBTQIA+ **(PT-BR)** - https://www.instagram.com/p/CQt9i6qD1lI/
-- Semana DevOps e lançamento do curso Descomplicando o DevOps **(PT-BR)** - https://www.youtube.com/watch?v=gCn5Pfh6MW0
-- DevOpsDays Blumenau - Custos em Kubernetes na migração de regiões **(PT-BR)** - https://devopsdays.org/events/2021-blumenau/speakers
-- Latinoware 2021 - Kubernetes: migração entre regiões, redução de custo e afinamento da infraestrutura **(PT-BR)** - https://latinoware.org/
-- Todas as Letras **(PT-BR)**
-- BrazilJS **(PT-BR)**
-- Estabilis DevOps Bootcamp **(PT-BR)**
-- Quebradev - Politize-se: posicionamento político no trabalho -  **(PT-BR)** - https://quebra.dev/posicionamento-politico-no-trabalho/
-
-### 2022
-- Live com o MTST **(PT-BR)** - https://www.instagram.com/p/CbLL2UHLEkl/
-- Estabilis **(PT-BR)** - https://www.sympla.com.br/evento-online/devops-experience-edicao-31-de-marco-de-2022/1501928?lang=PT
-- Oficina com o MTST de aprendizado sobre Docker **(PT-BR)** - https://www.youtube.com/watch?v=UJfMVBeXWQc
-- Migrando bancos Postgres e MongoDB de regiões - PGConfBR 2022 - **(PT-BR)** - https://www.pgconf.com.br/2022/
-- Elasticidade de rede em Kubernetes com edge e 5G Cloud Native - **(PT-BR)** - DevOpsDays Vitória - https://devopsdays.org/events/2022-vitoria/program/camilla-martins
-- Meetup Interno C6Bank - https://twitter.com/morgannadev/status/1559907807981457408 - Service Mesh **(PT-BR)**
-- Docker Community All Hands #6 - https://tulu.la/chat/docker-000014/international-waters-0003ou
-- DockerCon 2022 - https://docker.events.cube365.net/dockercon/2022
-- Utilizando CodeBuild e CodePipelines com Terraform - HashiTalks Brazil -  **(PT-BR)** - https://events.hashicorp.com/hashitalksbrasil
-- Kubernetes com edge e 5G Cloud Native - DevOpsDays Fortaleza - **(PT-BR)** - https://devopsdays.org/events/2022-fortaleza/speakers
-- CloudNative 5G: o que esperar para o futuro? - **(PT-BR)** - https://aratu.boitatech.com.br
-- Latinoware - Elasticidade de rede em Kubernetes com edge e 5G Cloud Native - **(PT-BR)** - https://www.youtube.com/live/1njvoi_x4CY?feature=share&t=17981
-- Workshop - Programaria - Zero to Hero: criando Kubernetes e fazendo sua manutenção  - **(PT-BR)** - https://vamosjuntes.programaria.org/summit22-agenda
-- Esquenta DevFest Sudeste - **(PT-BR)** - Trends de DevOps - https://gdg.community.dev/events/details/google-gdg-sorocaba-presents-esquenta-devfest-sudeste/ 
-
-### 2023
- 
-- Saindo das VMs para containers - DevOpsDays Goiânia **(PT-BR)** - https://devopsdays.org/events/2023-goiania/program
-- DevOps para o Exterior - Platform Engineer Summit - LinuxTips - **(PT-BR)**
-- Folia LinuxTips - https://www.linuxtips.io/folia-linuxtips
-- Vercel AI - GDG Salvador - Google I/O Extended 2023 - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-salvador-presents-google-io-extended-salvador-2023/
-- DevOps para o Exterior - DevOpsDays Juiz de Fora - **(PT-BR)** - https://devopsdays.org/events/2023-juiz-de-fora/program
-- DevOps para o Exterior - DevOpsDays Florianópolis - **(PT-BR)** - https://devopsdays.org/events/2023-florianopolis/welcome/
-- Programação Linear Mista para escalonamento de containers - Latinoware 2023 - **(PT-BR)** - [https://latinoware.org/](https://lapsi.latinoware.org/index.php/program/day/156)
-- Programação Linear Mista para escalonamento de containers - Semana de Tecnologia e Inovação da Universidade Federal do Norte Fluminense - **(PT-BR)**
-- Programação Linear Mista para escalonamento de containers - Aniversário LinuxTIPS - **(PT-BR)**
-- Google Brasil Meetup - Esquenta São Paulo 2024 - https://rsvp.withgoogle.com/events/pi-esquenta-devopsdays - **(PT-BR)**
-- Adicione ML aos seus aplicativos por meio de consultas simples ao banco de dados com BigQuery ML - DevOpsDays Recife - **(PT-BR)** - https://devopsdays.org/events/2023-recife/welcome
-- Programação Linear Mista para escalonamento de containers - SBPO - **(PT-BR)** - https://eventos.galoa.com.br/sbpo-2023
-- Container Scheduling in Kubernetes Clusters Using a Mixed Integer Linear Programming Approach - ICUMT 2023 - https://icumt.info/2023/
-- Kubecon 2023: overview - Meetup Hashicorp Rio de Janeiro - https://www.meetup.com/pt-BR/rio-de-janeiro-hashicorp-user-group/events/293657830/
-- Prototipando Ideias - Terraform em Microsserviços - Google Brasil - **(PT-BR)** - https://rsvp.withgoogle.com/events/prototipando-ideias-16ago
-- Meetup Linuxtips Oracle - **(PT-BR)**
-- Palestra para Portugal - DevOps - DevPT no Discord - **(PT-BR)** - https://discord.gg/zMyd4hjp
-- DevFest Bahia - **(PT-BR)** - Kubeflow no GKE - https://www.instagram.com/p/CzrXrgogoXw/?igsh=cTJ6cGhtOWo1YWt0
-
-### 2024
-
-- Meetup Juiz de Fora - Janeiro - **(PT-BR)**
-- Hearts - Docker para o coração - **(PT-BR)** - https://discord.gg/he4rt
-- Voices of Cloud Native - KCD - **(PT-BR)** - https://www.sympla.com.br/evento/kcd-sao-paulo-brasil-2024/2255650?referrer=www.google.com
-- Terraform 101 - **(PT-BR)** - https://www.meetup.com/rio-de-janeiro-hashicorp-user-group/events/298883564/
-- Using Terraform to migrate to containers: journey about security - HASHITALKS **(English)**  https://events.hashicorp.com/hashitalks2024
-- DevOps no Exterior - **(PT-BR)** - https://www.awswomencommunitybrasil.com/
-- DevOps no Exterior - **(PT-BR)** - [TECHHUBjf](https://techhubjf.org/)
-- Docker com AI - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/300579206/
-- Google I/O After Party 2024 - **(PT-BR)** - https://www.youtube.com/watch?v=UNi1nMojfTM
-- Hipercomputadores e IA - Google I/O Extended Brasília - **(PT-BR)** - https://doity.com.br/google-io-extended-brasilia-2024
-- Bondão pelo Rio Grande do Sul - Carreira e como participar de Comunidades - LinuxTips - **(PT-BR)** - https://www.youtube.com/watch?v=HtXx6FRHfV4
-- Recap Google I/O 2024 - Google I/O Extended Joinville - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-joinville-presents-google-io-extended-gdg-joinville/
-- Recap Google I/O 2024 - Google Prototipando Ideias - **(PT-BR)** - https://rsvp.withgoogle.com/events/pi-devops - https://www.youtube.com/watch?v=w93sWxkxEaE
-- Recap Docker Captains Summit Lisboa - Docker Rio - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/301427879/
-- Kubernetes: como começar - Hearts Devs - **(PT-BR)** - https://discord.gg/he4rt
-- Webinar sobre TestContainers - **(PT-BR)** - LinuxTips - https://www.linkedin.com/feed/update/urn:li:activity:7217611178607321088/
-- Google I/O Extended São Paulo - Onde começar com DevOps? - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-sao-paulo-presents-google-io-extended-sao-paulo-2024/
-- KCD Peru - **(Spanish)** - Integer Programming to optimize costs in Kubernetes - https://community.cncf.io/events/details/cncf-kcd-lima-peru-presents-kcd-lima-peru-2024/
-- Recap Google I/O 2024 - Google I/O Extended Natal - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-natal-presents-google-io-extended-natal-2024/
-- Minicurso Docker - Google I/O Extended Natal - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-natal-presents-google-io-extended-natal-2024/
-- Recap Google I/O 2024 - Google I/O Extended Lauro de Freitas - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-lauro-de-freitas-presents-google-io-extended-lauro-de-freitas-2024/
-- Recap Google I/O 2024 - Google I/O Extended Pelotas - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-pelotas-presents-google-io-extended-pelotas-2024/
-- Terraform na migração de containers com segurança e ferramentas Aquasec - Hashitalks Brasil - **(PT-BR)** - https://events.hashicorp.com/hashitalksbrasil
-- Road to DevFest Lima 2024 - Gemini y DevOps: que esperar del futuro? - **(Spanish)** - https://www.youtube.com/watch?v=NhV5oIHM69k
--  TDC São Paulo - Cilium, eBPF, Kubernetes e Gemini - **(PT-BR)** - https://thedevconf.com/tdc/2024/sao-paulo/trilha-cloud
--  DevOpsDays Fortaleza - Keynote - Integer Programming to optimize costs in Kubernetes - **(PT-BR)** - https://devopsdays.org/events/2024-fortaleza/speakers/
--  PythonSul - Safe environment with Terraform, Aquasec and Python - **(PT-BR)** - https://sul.python.org.br/#pre-lineup
--  DevOpsDays Belo Horizonte - Safe environment with Terraform and Aquasec - **(PT-BR)** - https://devopsdays.org/events/2024-belo-horizonte/program
--  Soberania Digital e Popular - Núcleo MTST de Tecnologia - **(PT-BR)** -  https://www.instagram.com/p/C_yBUnPvuW0/?img_index=1
--  Workshop Docker, VeeCode and Pipelines - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/303469005/?eventorigin=group_upcoming_events
--  DevOpsDays in Brazil - Organizer Summit 2024 - **(English)** - https://devopsdays.org/events/2024-organiser-summit/program
--  DevOpsDays Antwerp 2024 - Integer Programming to optimize costs in Kubernetes - **(English)** - https://devopsdays.org/events/2024-antwerp/program
-- Hashiconf - Hallway Track - Terraform and Gemini - **(English)** - https://www.hashicorp.com/conferences/hashiconf
-- DevFest Santiago 2024 - Gemini, DevOps y cultura - **Español** - https://gdg.community.dev/events/details/google-gdg-santiago-de-chile-presents-devfest-santiago-2024-innovacion-ia-responsable-y-comunidad/cohost-gdg-santiago-de-chile
-- DevFest Triângulo 2024 - O que DevOps e IA podem contribuir em comum: falas sobre Gemini, GKE, DataOps e responsabilidade social! - **(PT-BR)** - https://devfesttriangulo.com.br/speakers/
-- Portera Tech - DevOps e carreira internacional - **(PT-BR)** - https://www.instagram.com/p/DBFcSm-sCWh/
-- Terraform, GCP e Docker - **(PT-BR)** https://www.meetup.com/pt-BR/rio-de-janeiro-hashicorp-user-group/events/304398151/?eventorigin=group_upcoming_events
-- Cilium, eBPF y insights con Gemini - DevFest Ecuador - **Español** - https://gdg.community.dev/events/details/google-gdg-guayaquil-presents-devfest-ecuador-2024/
-
-### 2025
-
+### 🗓️ 2025
 - Cilium, Terraform y eBPF - Hashitalks LATAM - **Español** - https://events.hashicorp.com/hashitalksamericalatina
 - DevLokos S2 Ep006 - Impacto de DevOps en el mercado y las oportunidades - **Español** - https://www.youtube.com/watch?v=kzrGDrjHxaU&t=4s
 - KubeEdge e Containers - **(PT-BR)** - https://www.youtube.com/watch?v=6avNT7jRFQQ
@@ -226,11 +131,186 @@
 -  DevFest Porto Alegre - Cilium e eBPF - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-dev-fest-porto-alegre-2025-1/cohost-gdg-porto-alegre/
 -  DevFest BH - Gemini e DevOps - **(PT-BR)** - https://www.linkedin.com/posts/camilla-martins-603344115_devfest-google-gemini-activity-7394089058525659136-zsux/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 
-### 2026
-- HashiTalks Espanha - Gemini y Terraform -  **(ES)** - https://events.hashicorp.com/hashitalksespana
-  
-  
-## Keynote
+<details>
+<summary><b>🗓️ 2024</b> (Click to expand)</summary>
+<br/>
+
+- Meetup Juiz de Fora - Janeiro - **(PT-BR)**
+- Hearts - Docker para o coração - **(PT-BR)** - https://discord.gg/he4rt
+- Voices of Cloud Native - KCD - **(PT-BR)** - https://www.sympla.com.br/evento/kcd-sao-paulo-brasil-2024/2255650?referrer=www.google.com
+- Terraform 101 - **(PT-BR)** - https://www.meetup.com/rio-de-janeiro-hashicorp-user-group/events/298883564/
+- Using Terraform to migrate to containers: journey about security - HASHITALKS **(English)**  https://events.hashicorp.com/hashitalks2024
+- DevOps no Exterior - **(PT-BR)** - https://www.awswomencommunitybrasil.com/
+- DevOps no Exterior - **(PT-BR)** - [TECHHUBjf](https://techhubjf.org/)
+- Docker com AI - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/300579206/
+- Google I/O After Party 2024 - **(PT-BR)** - https://www.youtube.com/watch?v=UNi1nMojfTM
+- Hipercomputadores e IA - Google I/O Extended Brasília - **(PT-BR)** - https://doity.com.br/google-io-extended-brasilia-2024
+- Bondão pelo Rio Grande do Sul - Carreira e como participar de Comunidades - LinuxTips - **(PT-BR)** - https://www.youtube.com/watch?v=HtXx6FRHfV4
+- Recap Google I/O 2024 - Google I/O Extended Joinville - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-joinville-presents-google-io-extended-gdg-joinville/
+- Recap Google I/O 2024 - Google Prototipando Ideias - **(PT-BR)** - https://rsvp.withgoogle.com/events/pi-devops - https://www.youtube.com/watch?v=w93sWxkxEaE
+- Recap Docker Captains Summit Lisboa - Docker Rio - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/301427879/
+- Kubernetes: como começar - Hearts Devs - **(PT-BR)** - https://discord.gg/he4rt
+- Webinar sobre TestContainers - **(PT-BR)** - LinuxTips - https://www.linkedin.com/feed/update/urn:li:activity:7217611178607321088/
+- Google I/O Extended São Paulo - Onde começar com DevOps? - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-sao-paulo-presents-google-io-extended-sao-paulo-2024/
+- KCD Peru - **(Spanish)** - Integer Programming to optimize costs in Kubernetes - https://community.cncf.io/events/details/cncf-kcd-lima-peru-presents-kcd-lima-peru-2024/
+- Recap Google I/O 2024 - Google I/O Extended Natal - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-natal-presents-google-io-extended-natal-2024/
+- Minicurso Docker - Google I/O Extended Natal - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-natal-presents-google-io-extended-natal-2024/
+- Recap Google I/O 2024 - Google I/O Extended Lauro de Freitas - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-lauro-de-freitas-presents-google-io-extended-lauro-de-freitas-2024/
+- Recap Google I/O 2024 - Google I/O Extended Pelotas - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-pelotas-presents-google-io-extended-pelotas-2024/
+- Terraform na migração de containers com segurança e ferramentas Aquasec - Hashitalks Brasil - **(PT-BR)** - https://events.hashicorp.com/hashitalksbrasil
+- Road to DevFest Lima 2024 - Gemini y DevOps: que esperar del futuro? - **(Spanish)** - https://www.youtube.com/watch?v=NhV5oIHM69k
+-  TDC São Paulo - Cilium, eBPF, Kubernetes e Gemini - **(PT-BR)** - https://thedevconf.com/tdc/2024/sao-paulo/trilha-cloud
+-  DevOpsDays Fortaleza - Keynote - Integer Programming to optimize costs in Kubernetes - **(PT-BR)** - https://devopsdays.org/events/2024-fortaleza/speakers/
+-  PythonSul - Safe environment with Terraform, Aquasec and Python - **(PT-BR)** - https://sul.python.org.br/#pre-lineup
+-  DevOpsDays Belo Horizonte - Safe environment with Terraform and Aquasec - **(PT-BR)** - https://devopsdays.org/events/2024-belo-horizonte/program
+-  Soberania Digital e Popular - Núcleo MTST de Tecnologia - **(PT-BR)** -  https://www.instagram.com/p/C_yBUnPvuW0/?img_index=1
+-  Workshop Docker, VeeCode and Pipelines - **(PT-BR)** - https://www.meetup.com/pt-BR/docker-rio-de-janeiro/events/303469005/?eventorigin=group_upcoming_events
+-  DevOpsDays in Brazil - Organizer Summit 2024 - **(English)** - https://devopsdays.org/events/2024-organiser-summit/program
+-  DevOpsDays Antwerp 2024 - Integer Programming to optimize costs in Kubernetes - **(English)** - https://devopsdays.org/events/2024-antwerp/program
+- Hashiconf - Hallway Track - Terraform and Gemini - **(English)** - https://www.hashicorp.com/conferences/hashiconf
+- DevFest Santiago 2024 - Gemini, DevOps y cultura - **Español** - https://gdg.community.dev/events/details/google-gdg-santiago-de-chile-presents-devfest-santiago-2024-innovacion-ia-responsable-y-comunidad/cohost-gdg-santiago-de-chile
+- DevFest Triângulo 2024 - O que DevOps e IA podem contribuir em comum: falas sobre Gemini, GKE, DataOps e responsabilidade social! - **(PT-BR)** - https://devfesttriangulo.com.br/speakers/
+- Portera Tech - DevOps e carreira internacional - **(PT-BR)** - https://www.instagram.com/p/DBFcSm-sCWh/
+- Terraform, GCP e Docker - **(PT-BR)** https://www.meetup.com/pt-BR/rio-de-janeiro-hashicorp-user-group/events/304398151/?eventorigin=group_upcoming_events
+- Cilium, eBPF y insights con Gemini - DevFest Ecuador - **Español** - https://gdg.community.dev/events/details/google-gdg-guayaquil-presents-devfest-ecuador-2024/
+
+</details>
+
+<details>
+<summary><b>🗓️ 2023</b> (Click to expand)</summary>
+<br/>
+
+- Saindo das VMs para containers - DevOpsDays Goiânia **(PT-BR)** - https://devopsdays.org/events/2023-goiania/program
+- DevOps para o Exterior - Platform Engineer Summit - LinuxTips - **(PT-BR)**
+- Folia LinuxTips - https://www.linuxtips.io/folia-linuxtips
+- Vercel AI - GDG Salvador - Google I/O Extended 2023 - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-salvador-presents-google-io-extended-salvador-2023/
+- DevOps para o Exterior - DevOpsDays Juiz de Fora - **(PT-BR)** - https://devopsdays.org/events/2023-juiz-de-fora/program
+- DevOps para o Exterior - DevOpsDays Florianópolis - **(PT-BR)** - https://devopsdays.org/events/2023-florianopolis/welcome/
+- Programação Linear Mista para escalonamento de containers - Latinoware 2023 - **(PT-BR)** - [https://latinoware.org/](https://lapsi.latinoware.org/index.php/program/day/156)
+- Programação Linear Mista para escalonamento de containers - Semana de Tecnologia e Inovação da Universidade Federal do Norte Fluminense - **(PT-BR)**
+- Programação Linear Mista para escalonamento de containers - Aniversário LinuxTIPS - **(PT-BR)**
+- Google Brasil Meetup - Esquenta São Paulo 2024 - https://rsvp.withgoogle.com/events/pi-esquenta-devopsdays - **(PT-BR)**
+- Adicione ML aos seus aplicativos por meio de consultas simples ao banco de dados com BigQuery ML - DevOpsDays Recife - **(PT-BR)** - https://devopsdays.org/events/2023-recife/welcome
+- Programação Linear Mista para escalonamento de containers - SBPO - **(PT-BR)** - https://eventos.galoa.com.br/sbpo-2023
+- Container Scheduling in Kubernetes Clusters Using a Mixed Integer Linear Programming Approach - ICUMT 2023 - https://icumt.info/2023/
+- Kubecon 2023: overview - Meetup Hashicorp Rio de Janeiro - https://www.meetup.com/pt-BR/rio-de-janeiro-hashicorp-user-group/events/293657830/
+- Prototipando Ideias - Terraform em Microsserviços - Google Brasil - **(PT-BR)** - https://rsvp.withgoogle.com/events/prototipando-ideias-16ago
+- Meetup Linuxtips Oracle - **(PT-BR)**
+- Palestra para Portugal - DevOps - DevPT no Discord - **(PT-BR)** - https://discord.gg/zMyd4hjp
+- DevFest Bahia - **(PT-BR)** - Kubeflow no GKE - https://www.instagram.com/p/CzrXrgogoXw/?igsh=cTJ6cGhtOWo1YWt0
+
+</details>
+
+<details>
+<summary><b>🗓️ 2022</b> (Click to expand)</summary>
+<br/>
+
+- Live com o MTST **(PT-BR)** - https://www.instagram.com/p/CbLL2UHLEkl/
+- Estabilis **(PT-BR)** - https://www.sympla.com.br/evento-online/devops-experience-edicao-31-de-marco-de-2022/1501928?lang=PT
+- Oficina com o MTST de aprendizado sobre Docker **(PT-BR)** - https://www.youtube.com/watch?v=UJfMVBeXWQc
+- Migrando bancos Postgres e MongoDB de regiões - PGConfBR 2022 - **(PT-BR)** - https://www.pgconf.com.br/2022/
+- Elasticidade de rede em Kubernetes com edge e 5G Cloud Native - **(PT-BR)** - DevOpsDays Vitória - https://devopsdays.org/events/2022-vitoria/program/camilla-martins
+- Meetup Interno C6Bank - https://twitter.com/morgannadev/status/1559907807981457408 - Service Mesh **(PT-BR)**
+- Docker Community All Hands #6 - https://tulu.la/chat/docker-000014/international-waters-0003ou
+- DockerCon 2022 - https://docker.events.cube365.net/dockercon/2022
+- Utilizando CodeBuild e CodePipelines com Terraform - HashiTalks Brazil -  **(PT-BR)** - https://events.hashicorp.com/hashitalksbrasil
+- Kubernetes com edge e 5G Cloud Native - DevOpsDays Fortaleza - **(PT-BR)** - https://devopsdays.org/events/2022-fortaleza/speakers
+- CloudNative 5G: o que esperar para o futuro? - **(PT-BR)** - https://aratu.boitatech.com.br
+- Latinoware - Elasticidade de rede em Kubernetes com edge e 5G Cloud Native - **(PT-BR)** - https://www.youtube.com/live/1njvoi_x4CY?feature=share&t=17981
+- Workshop - Programaria - Zero to Hero: criando Kubernetes e fazendo sua manutenção  - **(PT-BR)** - https://vamosjuntes.programaria.org/summit22-agenda
+- Esquenta DevFest Sudeste - **(PT-BR)** - Trends de DevOps - https://gdg.community.dev/events/details/google-gdg-sorocaba-presents-esquenta-devfest-sudeste/ 
+
+</details>
+
+<details>
+<summary><b>🗓️ 2021</b> (Click to expand)</summary>
+<br/>
+
+- Rebobinando com o Luide **(PT-BR)** - https://www.rebobinando.com.br/programar-e-punk-punk-do-devops/
+- Kubicast com GetUp **(PT-BR)** - https://blog.getupcloud.com/kubicast-66-914451ff0994
+- DevOpsDays Rio Organizer - https://devopsdays.org/events/2021-rio-de-janeiro/welcome
+- DockerCon em: Pipelines com Docker **(PT-BR)** - https://www.youtube.com/watch?v=Kc0kKrHOJ_g&t=7s
+- Revolushow sobre Trabalhadores de TI **(PT-BR)** - https://revolushow.com/102-trabalhadores-da-tecnologia-da-informacao/
+- Papo sobre DevSecOps para Computação URI **PT-BR** - https://www.youtube.com/watch?v=j025ST2KjjQ
+- DevOpsDays Porto Alegre - Custos em Kubernetes na migração de regiões  **(PT-BR)** - https://devopsdays.org/events/2021-porto-alegre/program
+- Podcast gravado com Feministech **(PT-BR)** - https://anchor.fm/feministech
+- Maratona Live Coder Girls **(PT-BR)** - https://maratona3.live
+- 10º Girls in ICT | Dia das Meninas nas Tecnologias de Informação e Comunicaçção (TIC) 2021 **(PT-BR)** - https://www.youtube.com/watch?v=xbKeTSfFW8s
+- Roadsec e contribuições sobre postagens do Mês LGBTQIA+ **(PT-BR)** - https://www.instagram.com/p/CQt9i6qD1lI/
+- Semana DevOps e lançamento do curso Descomplicando o DevOps **(PT-BR)** - https://www.youtube.com/watch?v=gCn5Pfh6MW0
+- DevOpsDays Blumenau - Custos em Kubernetes na migração de regiões **(PT-BR)** - https://devopsdays.org/events/2021-blumenau/speakers
+- Latinoware 2021 - Kubernetes: migração entre regiões, redução de custo e afinamento da infraestrutura **(PT-BR)** - https://latinoware.org/
+- Todas as Letras **(PT-BR)**
+- BrazilJS **(PT-BR)**
+- Estabilis DevOps Bootcamp **(PT-BR)**
+- Quebradev - Politize-se: posicionamento político no trabalho -  **(PT-BR)** - https://quebra.dev/posicionamento-politico-no-trabalho/
+
+</details>
+
+<details>
+<summary><b>🗓️ 2020</b> (Click to expand)</summary>
+<br/>
+
+- Jenkins + Ansible **(PT-BR)** - https://devopsdays.org/events/2020-vitoria/speakers/camilla-martins/
+- Automatizing rollbacks and working with blameless culture **(PT-BR)** - https://github.com/linuxtips/FiqueEmCasaConf
+- Jenkins + Ansible **(PT-BR)** - https://www.youtube.com/watch?v=H0mnLizeQxo
+- Implementing monitoring **(PT-BR)** - https://devopsdays.org/events/2020-porto-alegre/welcome/
+- DevOps - mercado e processos seletivos **(PT-BR)** - https://www.youtube.com/watch?v=eV5brULwuL4
+- DevOps - mercado e processos seletivos **(PT-BR)** - https://www.youtube.com/watch?v=zNnFeNUrqmE
+- DevOps - mercado e processos seletivos **(PT-BR)** - https://devopsdays.org/events/2020-fortaleza/program
+- DevSecOps - Como Desenvolver E Deployar Com Mais Segurança? **(PT-BR)** - https://devopsdays.org/events/2020-goiania/programacao
+- Under Attack: boas práticas em reactjs recomendados para proteger seu aplicativo contra problemas de segurança com  [Rob Robert](http://twitter.com/WonderlandOuts "Rob Robert") **(PT-BR)** - https://www.youtube.com/watch?v=nsvVjIb7WDk
+- Debate sobre Software Livre para o IFSP **(PT-BR)** - https://www.ifspcaraguatatuba.edu.br/noticias/atividade-cultural-realizada-pelo-ifsp-caraguatatuba-debateu-sobre-o-linux
+- GCP, processos de TV, Serverless e Python **(PT-BR)** - https://2020.pythonbrasil.org.br/grade/
+- Live de Python: Ansible e Colorado **(PT-BR)** - https://www.youtube.com/watch?v=22OxRcRxte8
+- DevSecOps - Como Desenvolver E Deployar Com Mais Segurança? **(PT-BR)** - https://www.youtube.com/watch?v=4UdFuuJLx2E
+- Bad Smells em Javascript **(PT-BR)** - https://braziljs.org/eventos/otr-rio-de-janeiro/2020/
+- Trabalhando com PHP Composer, Docker e Laravel **(PT-BR)** - https://online.php.locaweb.com.br/
+
+</details>
+
+<details>
+<summary><b>🗓️ 2019</b> (Click to expand)</summary>
+<br/>
+
+- Monitoring Postgres RDS with Graylog **(PT-BR)** - https://www.infoq.com/br/presentations/monitoramento-postgres-RDS-graylog/?itm_source=presentations_about_PGConf-Brasil&itm_medium=link&itm_campaign=PGConf-Brasil
+- ElasticSearch + Nodejs (DevOps) **(PT-BR)** - https://en.eventials.com/Globalcode/https-www-eventials-com-globalcode-tdc-sp-2019-stadium-quinta-3/
+- Jenkins + Ansible **(PT-BR)** - https://2019.latinoware.org/2019/04/22/camilla-martins/
+- Feature Toggle **(PT-BR)** - https://devopsdays.org/events/2019-aracaju/speakers/camilla-martins
+- Django to organize backups **(PT-BR)** - https://2019.pythonbrasil.org.br/grade/
+
+</details>
+
+<details>
+<summary><b>🕰️ Until 2018</b> (Click to expand)</summary>
+<br/>
+
+- BrazilJs Weekly #235 with [Debora Cardu](http://twitter.com/deboracardu "Debora Cardu") - News about Javascript world **(PT-BR)** - https://www.youtube.com/watch?v=Bq0oD8r7aas
+- Why we still need to respect jQuery? **(PT-BR)** - https://en.eventials.com/Globalcode/events/javascript-tdconline-sp-2018-premium/
+- Three Ways **(PT-BR)** - https://devopsdays.org/events/2018-belem/program/camilla-martins
+- Malwares in Python with [Ingrid Murielem](http://twitter.com/ingridmurielem "Ingrid Murielem") **(PT-BR)** - https://thedevconf.com/tdc/2018/portoalegre/trilha-python;jsessionid=9B2349DB1242873347DF6823C9DD1EA7
+- Johnny Five **(PT-BR)** - https://thedevconf.com/tdc/2018/portoalegre/trilha-arduino-e-makers;jsessionid=9B2349DB1242873347DF6823C9DD1EA7
+- Javascript good practices with [Zalba Monteiro](http://twitter.com/zalbamonteiro "Zalba Monteiro") **(PT-BR)** - https://en.eventials.com/Globalcode/tdc-poa-2018-stadium-sabado-7/
+- NodeJs in house automation with [Jorge Leite](http://twitter.com/ujorgeleite "Jorge Leite") **(PT-BR)** - https://en.eventials.com/Globalcode/tdc-floripa-2018-stadium-sexta-7/
+- Three Ways **(PT-BR)** - https://devopsdays.org/events/2018-rio-de-janeiro/program/camilla-martins
+- Nodejs manifest in Puppet **(EN)** - https://www.youtube.com/watch?v=TkEZ7y0Z3jc
+- Nodejs with Python working as workers **(PT-BR)** - https://www.youtube.com/watch?v=4JWeasEbf3k
+- Women In Tech - Interview **(PT-BR)** - https://blog.umbler.com/br/mulheres-na-tecnologia-2-as-mulheres-da-umbler/
+- Podcast Women In tech **(PT-BR)** - https://academy.umbler.com/umblercast-mulheres-na-tecnologia/
+- Three Ways **(PT-BR)** - https://2018.latinoware.org/camilla-martins/
+- WomakersCode Rio **(PT-BR)** - https://www.sympla.com.br/womakerscode-summit-rio-2018__273462
+- TcheLinux Gravataí, Caxias do Sul, Bento Gonçalves (PT-BR)
+- Vue.js site in 10 minutes with [Debora Cardu](http://twitter.com/deboracardu "Debora Cardu") **(PT-BR) **- https://www.youtube.com/watch?v=0ROtvpWD0Dc
+- NodeGirls, Women In Tech interview **(PT-BR)** - https://www.youtube.com/watch?v=1RBX8o4i9n8
+
+</details>
+
+<hr />
+
+<h2 id="-community">🤝 Community Engagement</h2>
+<table><tr><td width="50%" valign="top">
+
+### 🌟 Keynote
 - DevOps organizing events **(PT-BR)** - 2018 - https://devopsdays.org/events/2018-fortaleza/speakers/camilla-martins/
 - Kubernetes com edge e 5G Cloud Native - DevOpsDays Fortaleza **(PT-BR)** - 2022 - https://devopsdays.org/events/2022-fortaleza/speakers/camilla-martins/
 - Saindo das VMs para containers - DevOpsDays Goiânia **(PT-BR)** - 2023 - https://devopsdays.org/events/2023-goiania/program
@@ -240,27 +320,14 @@
 - Programação Inteira para Otimizar custos em Kubernetes - DevOpsDays Fortaleza  **(PT-BR)** - 2024 - https://www.instagram.com/p/C8VbSk0CsEo/
 - ADK Agents, Terraform, Docker, GCP and Kubernetes - DevOpsDays Campinas **(PT-BR)** - 2025 - https://www.linkedin.com/posts/camilla-martins-603344115_tech-devops-activity-7386118461879472128-8xsA?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
 
-## Code contribution
-
-- **Pyladies repo** - https://github.com/pyladies/pyladies/pull/332
-
-## Scholarships (thx u sooo!)
-- **DevOpsDays Ghent 10 years** - https://devopsdays.org/events/2019-ghent/welcome/
-- **KubeCon + CloudNativeCon Europe 2020** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
-- **KubeCon + CloudNativeCon Europe 2021** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
-- **DevOpsDays Chicago 2023 and Organizer Summit** - https://devopsdays.org/events/2023-chicago/welcome/
-- **Google I/O and Google North America** - https://io.google/2024/
-- **KubeCon + CloudNativeCon NA 2024** - https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
-
-## Community Leader
-
+### 🤝 Community Leader
 - **NodeGirls** - https://github.com/NodeGirlsCode - 2017 until 2018
 - **NodePOA** - https://www.meetup.com/pt-BR/meetup-nodejs-porto-alegre/ - 2017 until 2018
 - **Docker Community Leader Rio de Janeiro** - https://events.docker.com/rio-de-janeiro/ - 2019 until now
 - **Hashicorp Ambassador**
+</td><td width="50%" valign="top">
 
-## Organizer / Coordinating
-
+### 📅 Organizer / Coordinating
 - Curadoria Programaria Summit 2020
 - Curadoria Programaria Summit 2021
 - Curadoria Programaria Summit 2023
@@ -272,18 +339,41 @@
 - TDC Florianópolis NodeJs Track 2018
 - TDC São Paulo NodeJs Track 2018
 - DevOpsDays Rio Organizer 2019 until now
-- DevOpsDays Vitoria Organizer 2022 until now
+- DevOpsDays Vitoria Organizer 2022
 
-## Coach
-
+### 👩‍🏫 Coach
 - DjangoGirls Canoas 2018
 - DjangoGirls Novo Hamburgo 2018
 - WomakersCode Porto Alegre 2018
+</td></tr></table>
 
-## Youtube channel
+<hr />
 
-https://www.youtube.com/channel/punkdodevops
 
-## Twitch
+<table>
+<tr>
+<td width="50%" valign="top">
 
-https://twitch.tv/punkdodevops
+### 🎓 Scholarships
+- **DevOpsDays Ghent 10 years** - https://devopsdays.org/events/2019-ghent/welcome/
+- **KubeCon + CloudNativeCon Europe 2020** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
+- **KubeCon + CloudNativeCon Europe 2021** - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/
+- **DevOpsDays Chicago 2023 and Organizer Summit** - https://devopsdays.org/events/2023-chicago/welcome/
+- **Google I/O and Google North America** - https://io.google/2024/
+- **KubeCon + CloudNativeCon NA 2024** - https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+</td>
+<td width="50%" valign="top">
+
+### 💻 Code contribution
+- **Pyladies repo** - https://github.com/pyladies/pyladies/pull/332
+</td>
+</tr>
+</table>
+
+
+<br />
+<div align="center">
+  <h3>Let's Connect!</h3>
+  <a href="https://www.youtube.com/channel/punkdodevops"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://twitch.tv/punkdodevops"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+</div>
