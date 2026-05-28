@@ -5,7 +5,7 @@
 
   <img src="https://img.shields.io/badge/Google%20Cloud-Expert-blue?style=for-the-badge&logo=google-cloud" alt="Google Cloud Expert" />
   <img src="https://img.shields.io/badge/Docker-Captain-blue?style=for-the-badge&logo=docker" alt="Docker Captain" />
-  <img src="https://img.shields.io/badge/HashiCorp-Ambassador-black?style=for-the-badge&logo=hashicorp" alt="HashiCorp Ambassador" />
+  <img src="https://img.shields.io/badge/HashiCorp-Ambassador-black?style=for-the-badge&logo=hashicorp" alt="IBM Champion" />
 
   <br />
   <p><i>Welcome to my community portfolio! Here you'll find a record of my talks, courses, awards, and community engagements!</i></p>
