@@ -55,12 +55,13 @@
 - Docker Captain Award 2024
 - Elastic contributor in community Award in 2023
 - Build With AI Bolivia 2025 - Contributions for Community
+- DevOpsDays Nashville 2026 - Distinguished Speaker
 </td>
 <td width="50%" valign="top">
 
 ### 👑 Titles
 - Docker Community Leader
-- Hashicorp Ambassador
+- IBM Champion
 - Google Developer Expert (Google Cloud)
 - Docker Captain
 - Google Developer Group Organizer
