@@ -84,6 +84,11 @@
 - ML Driven Optimization - Google Cloud Next - **(EN)** - https://www.instagram.com/reel/DXXuWUrgXhx/?igsh=MTB0bWZxYjhneWNybg%3D%3D
 - Os Programadores - **(PT-BR)** - https://osprogramadores.com/podcast/podcast-148
 - Apresentação do Antigravity no GDG Rio de Janeiro - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-docker-birthday-amp-antigravity-party/
+- Palestra GDG Build with AI Natal - **(PT-BR)** - https://www.instagram.com/p/DYXQHZDlgU5/?hl=en&img_index=1
+- Supercharging Development with Google Antigravity - Google I/O Extended Natal - **(PT-BR)** - https://www.gdg.natal.br/programacao
+- Bridging the Gap: Empowering AI Agents with Docker and MCP - DevOpsDays Nashville - **(EN)** - https://devopsdays.org/events/2026-nashville/program/camilla-martins
+- Imersão Google São Paulo - **(PT-BR)** - https://www.instagram.com/p/DYaN6hgO6aX/
+- Lanzamiento oficial Build with AI Pereira - GDG Pereira - **(ES)** - https://gdg.community.dev/events/details/google-gdg-pereira-presents-lanzamiento-oficial-build-with-ai-pereira/
 
 ### 🗓️ 2025
 - Cilium, Terraform y eBPF - Hashitalks LATAM - **Español** - https://events.hashicorp.com/hashitalksamericalatina
