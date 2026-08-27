@@ -73,6 +73,8 @@
 <p><i>A chronological list of my speaking engagements, from the most recent to the very beginning.</i></p>
 
 ### 🗓️ 2026
+- Web Summit Rio - Workshop - **(EN)** - https://rio.websummit.com/pt-br/schedule/
+- Cloud Native CDMX - Modern Network Automation with eBPF, Cilium, and Terraform in GCP - **(ES)** - https://ocgroups.dev/cncf/group/e5vgp72/event/9vuzska
 - HashiTalks Espanha - Gemini y Terraform -  **(ES)** - https://events.hashicorp.com/hashitalksespana
 - Google Cloud & AI Workshops at Talent Land - Mexico City - **(ES)** - https://www.instagram.com/reel/DW7eTvfj3UH/?igsh=NTQzbjB0Z2ZudGR3
 - International Women's Day Rio de Janeiro - Mentoring - **(PT-BR)** - https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-international-womens-day-rio-de-janeiro-1
@@ -325,6 +327,7 @@
 - Cilium, IA e DevOps - DevOpsDays Salvador **(PT-BR)** - 2024 - https://devopsdays.org/events/2024-salvador/welcome/
 - Programação Inteira para Otimizar custos em Kubernetes - DevOpsDays Fortaleza  **(PT-BR)** - 2024 - https://www.instagram.com/p/C8VbSk0CsEo/
 - ADK Agents, Terraform, Docker, GCP and Kubernetes - DevOpsDays Campinas **(PT-BR)** - 2025 - https://www.linkedin.com/posts/camilla-martins-603344115_tech-devops-activity-7386118461879472128-8xsA?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy0VmMBQUgUX3ouhj0dQK58m1B70uhE2fo
+- Punk até o DevOps - DevOpsDays Rio de Janeiro **(PT-BR)** - 2026 - https://devopsdays.org/events/2026-rio-de-janeiro/program
 
 ### 🤝 Community Leader
 - **NodeGirls** - https://github.com/NodeGirlsCode - 2017 until 2018
